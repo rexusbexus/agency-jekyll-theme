@@ -1,30 +1,10 @@
-Agency Jekyll theme
-====================
+Website for BEXUS 26 – TUBULAR
+==============================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+Built using the [Agency bootstrap theme](https://startbootstrap.com/template-overviews/agency/) adapted for Jekyll by [y7kim/agency-jekyll-theme](https://github.com/y7kim/agency-jekyll-theme)
 
-# How to use
+# How to publish a blog post
 
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+1. Create a .markdown in the \_posts folder. The fil2name should be a [slug](https://en.wikipedia.org/wiki/Clean_URL#Slug) the following format: _YYYY-MM-DD-blogpost-title-slug.markdown_. 
+2. Are you sure you used a slug as your filename? If you still don't know what a slug is then just [use this](https://blog.tersmitten.nl/slugify/).
+3. There are a bunch of properties you need to set values to, they are: title, subtitle, layout, modal-id, date, pretty-date, img, thumbnail, author, and author-url. Make sure you set them correctly use these two past posts as a reference.
