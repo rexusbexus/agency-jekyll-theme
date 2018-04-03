@@ -1,3 +1,13 @@
+/* Overwrite Agency theme style. */
+div.intro-text{
+    padding-top: 200px;
+}
+
+/* Custom styling. */
+img.img-tubular-logo{
+    max-width: 250px;
+}
+
 img.img-partner-logo {
     max-width: 150px;
 }
@@ -16,5 +26,6 @@ img.img-valign-center{
 }
 
 h3{
-	line-height: 1.5;
+    line-height: 1.5;
 }
+
