@@ -14,19 +14,18 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
+                            <img src="img/blog/{{ post.img }}" class="img-responsive img-centered img-blogpost">
+                            <p>{{ post.post-par1 }}</p>
+                            <p>{{ post.post-par2 }}</p>
+                            <p>{{ post.post-par3 }}</p>
+                            <p>{{ post.post-par4 }}</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                <li>Author:
+                                    <strong><a href="{{ post.author-url }}" target="_blank">{{ post.author }}</a>
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                    <strong><a href="#">{{ post.pretty-date }}</a>
                                     </strong>
                                 </li>
                             </ul>
