@@ -3,6 +3,10 @@ div.intro-text{
     padding-top: 200px;
 }
 
+.navbar-default .navbar-brand {
+    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 /* Custom styling. */
 img.img-tubular-logo{
     max-width: 250px;
