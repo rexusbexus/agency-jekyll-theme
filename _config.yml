@@ -1,64 +1,95 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://rexusbexus.github.io
+baseurl: /tubular-www
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: TUBULAR BEXUS
+email: tubularbexus@googlegroups.com
+description: "Alternative to AirCore for Atmospheric Greenhouse Gas Sampling."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+- name: Núria Agües Paszkowsky
+  pic: nuria-agues-paszkowsky
+  position: Scientific Division
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+- name: Kyriaki Blazaki
+  pic: kyriaki-blazaki
+  position: Scientific Division
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+- name: Jordi Coll Ortega
+  pic: jordi-coll-ortega
+  position: Mechanical Division
+
+- name: Gustav Dyrssen
+  pic: gustav-dyrssen
+  position: Software Division
+
+- name: Erik Fagerstrom
+  pic: erik-fagerstrom
+  position: Thermal Division
+
+- name: Georges L. J. Labrèche
+  pic: georges-louis-joseph-labreche
+  position: Project Manager
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+#    - title: linkedin
+#      url: #
+
+- name: Natalie Lawton
+  pic: natalie-lawton
+  position: Electrical Division
+
+- name: Pau Molas Roca
+  pic: pau-molas-roca
+  position: Mechanical Division
+
+- name: Ansyar Rafi Putra
+  pic: muhammad-ansyar-rafi-putra
+  position: Software Division
+
+- name: Hamad Siddiqi
+  pic: hamad-siddiqi
+  position: Electrical Division
+
+- name: Vince Still
+  pic: vince-still
+  position: Thermal Division
+
+- name: Ivan Zankov
+  pic: ivan-zankov
+  position: Thermal Division
+
+#- name: Emily Chen
+#  pic: emily-chen
+#  position: Mechanical Division
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: instagram
+    url: https://instagram.com/tubularbexus
+  - title: facebook 
+    url: https://facebook.com/tubularbexus
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/rexusbexus
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+#address:
+#  - line: 3481 Melrose Place
+#  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown

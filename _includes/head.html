@@ -4,6 +4,28 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
+
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <!--meta name="twitter:site" content="@publisher_handle"-->
+    <meta name="twitter:title" content="TUBULAR BEXUS">
+    <meta name="twitter:description" content="Alternative to AirCore for Atmospheric Greenhouse Gas Sampling.">
+    <!--meta name="twitter:creator" content="@author_handle"-->
+    <!-- Twitter Summary card images must be at least 120x120px -->
+    <meta name="twitter:image" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}img/header-bg.jpg">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="TUBULAR BEXUS" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://tubularbex.us" />
+    <meta property="og:image" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}img/header-bg.jpg" />
+    <meta property="og:description" content="Alternative to AirCore for Atmospheric Greenhouse Gas Sampling." /> 
+    <meta property="og:site_name" content="TUBULAR BEXUS" />
+
+    <!-- favicon -->
+    <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAACn60kA4HI/AAAAAADj8NEA2VTeAHwbgAA/mOAAgNQLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIiIiIiIiIiIiYiIiIiIiIiZmIiIiIiIiImIiIiIiIiIiIiIiIiJSIiIiInciJVUiIiIidyIiUiIiIicAciIiIiIicAMHIiIiIicAADByIiIiJwAAMHIiIiInAAAwciQiIiJwAAciREIhIid3ciIkIhESIiIiIiIiISIiIiIiIiL/3wAA378AAI9/AADe/wAA/fcAAPzjAAD89wAA+H8AAPA/AADgHwAA4B8AAOAbAADwMQAAuHsAAB//AAC//wAA" rel="icon" type="image/x-icon" />
+
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
 

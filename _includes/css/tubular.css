@@ -1,0 +1,20 @@
+img.img-partner-logo {
+    max-width: 150px;
+}
+
+img.img-partner-logo:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    cursor: pointer;
+}
+
+img.img-valign-center{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    width:100%;
+}
+
+h3{
+	line-height: 1.5;
+}
