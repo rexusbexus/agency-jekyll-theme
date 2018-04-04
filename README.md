@@ -3,8 +3,13 @@ Website for BEXUS 26 – TUBULAR
 
 Built using the [Agency bootstrap theme](https://startbootstrap.com/template-overviews/agency/) adapted for Jekyll by [y7kim/agency-jekyll-theme](https://github.com/y7kim/agency-jekyll-theme)
 
-# How to publish a blog post
+# How to publish a blogpost
 
-1. Create a .markdown in the \_posts folder. The fil2name should be a [slug](https://en.wikipedia.org/wiki/Clean_URL#Slug) the following format: _YYYY-MM-DD-blogpost-title-slug.markdown_. 
-2. Are you sure you used a slug as your filename? If you still don't know what a slug is then just [use this](https://blog.tersmitten.nl/slugify/).
-3. There are a bunch of properties you need to set values to, they are: title, subtitle, layout, modal-id, date, pretty-date, img, thumbnail, author, and author-url. Make sure you set them correctly use these two past posts as a reference.
+1. Make sure you have a [GitHub account](https://github.com). You can't publish blogposts if you don't have a GitHub account.
+2. Create a __**square image**__ for your blogpost and upload it in the [img/blog folder](https://github.com/rexusbexus/tubular-www/tree/gh-pages/img/blog). The image filename should be in uncapitalized __**[slug](https://en.wikipedia.org/wiki/Clean_URL#Slug)**__ format.
+3. The easiest way to crop your image into a square image is to use [this website](https://birme.net/). If you want to be creative and do some express photoshoping then [pixlr express](https://pixlr.com/express) is a good online app.
+4. Create a .markdown in the [\_posts folder](https://github.com/rexusbexus/tubular-www/tree/gh-pages/_posts). The filename should be in uncapitalized __**[slug](https://en.wikipedia.org/wiki/Clean_URL#Slug)**__ format with the following pattern: _YYYY-MM-DD-title-of-the-blogpost.markdown_. 
+5. Are you sure you used a slug when naming both your blogpost image file and blogpost .markdown file? If you still don't know what a slug is then just [use this](https://blog.tersmitten.nl/slugify/).
+6. There are a bunch of properties you need to set values to, they are: title, subtitle, layout, modal-id, date, pretty-date, img, thumbnail, author, and author-url. Make sure you set them correctly, look at [past](https://raw.githubusercontent.com/rexusbexus/tubular-www/gh-pages/_posts/2018-04-03-first-post.markdown) [posts](https://raw.githubusercontent.com/rexusbexus/tubular-www/gh-pages/_posts/2018-04-04-microblogging.markdown) as a reference.
+7. Pay particular attention to the modal-id value that you set. It should be an increment of the previou's post's modal-id.
+8. Now's the time to write your blogpost. Keep it short and succinct! You're entitled to up to four paragraphs by using the following properties: post-par1, post-par2, post-par3, and post-par4.
