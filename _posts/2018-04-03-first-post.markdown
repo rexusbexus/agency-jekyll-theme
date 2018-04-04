@@ -2,7 +2,6 @@
 title: First Post
 subtitle: First!
 layout: default
-modal-id: 1
 date: 2018-04-03
 pretty-date: April 3, 2018
 img: the-team.png

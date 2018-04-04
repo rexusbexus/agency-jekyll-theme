@@ -2,7 +2,6 @@
 title: Microblogging
 subtitle: On track with it.
 layout: default
-modal-id: 2
 date: 2018-04-04
 pretty-date: April 4, 2018
 img: blogging.jpg
