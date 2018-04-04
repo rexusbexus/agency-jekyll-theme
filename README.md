@@ -6,9 +6,9 @@ Built using the [Agency bootstrap theme](https://startbootstrap.com/template-ove
 # How to publish a blogpost
 
 1. Make sure you have a [GitHub account](https://github.com). You can't publish blogposts if you don't have a GitHub account.
-2. Create a __**square image**__ for your blogpost and upload it in the [img/blog folder](img/blog). The image filename should be in uncapitalized __**[slug](https://en.wikipedia.org/wiki/Clean_URL#Slug)**__ format.
+2. Create a **square image** for your blogpost and upload it in the [img/blog folder](img/blog). The image filename should be in uncapitalized **[slug](https://en.wikipedia.org/wiki/Clean_URL#Slug)** format.
 3. The easiest way to crop your image into a square image is to use [this website](https://birme.net/). If you want to be creative and do some express photoshoping then [pixlr express](https://pixlr.com/express) is a good online app.
-4. Create a .markdown in the [\_posts folder](_posts). The filename should be in uncapitalized __**[slug](https://en.wikipedia.org/wiki/Clean_URL#Slug)**__ format with the following pattern: _YYYY-MM-DD-title-of-the-blogpost.markdown_. 
+4. Create a .markdown in the [\_posts folder](_posts). The filename should be in uncapitalized **[slug](https://en.wikipedia.org/wiki/Clean_URL#Slug)** format with the following pattern: _YYYY-MM-DD-title-of-the-blogpost.markdown_. 
 5. Are you sure you used a slug when naming both your blogpost image file and blogpost .markdown file? If you still don't know what a slug is then just [use this](https://blog.tersmitten.nl/slugify/).
 6. There are a bunch of properties you need to set values to, they are: title, subtitle, layout, modal-id, date, pretty-date, img, thumbnail, author, and author-url. Make sure you set them correctly, look at [past](https://raw.githubusercontent.com/rexusbexus/tubular/gh-pages/_posts/2018-04-03-first-post.markdown) [posts](https://raw.githubusercontent.com/rexusbexus/tubular/gh-pages/_posts/2018-04-04-microblogging.markdown) as a reference.
 7. Pay particular attention to the modal-id value that you set. It should be an increment of the previous post's modal-id.
