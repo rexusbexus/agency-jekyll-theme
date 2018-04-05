@@ -6,7 +6,7 @@ date: 2018-04-05
 pretty-date: April 5, 2018
 img: totally-tubular.jpeg
 thumbnail: totally-tubular.jpeg
-author: Núria Agües Paszkowsky
+author: Nuria Agues Paszkowsky
 author-url:
 
 post-par1: Did you know about our name? Yes, team TUBULAR doesn't have an acronym but there is a reason for our name! Tubular was a common expression during the 80s to express excitement, happiness or to say that something is really cool. 
