@@ -4,8 +4,8 @@ subtitle: Did you know...?
 layout: default
 date: 2018-04-05
 pretty-date: April 5, 2018
-img: totally-tubular.jpeg
-thumbnail: totally-tubular.jpeg
+img: blogging.jpg
+thumbnail: blogging.jpg
 author: Nuria Agues Paszkowsky
 author-url:
 
