@@ -1,3 +1,4 @@
+---
 title: Bag with a view!
 subtitle: A bag's diary..
 layout: default
@@ -16,3 +17,5 @@ After that... SUMMEEEEEEER!! I hope team TUBULAR gets a life and leaves me alone
 post-par3: And here comes the big day! Launch campaign. I am looking fabulous and cool, unlike all these people that walk around anxiously, whispering weird things to each other! I feel sooooo sorry for you humans! Oh, wait! There are some rumors that they are going to squeeze me with their hands to take out any air I have left in me. I hope this is not true, otherwise, I might punch them in the face!! Purely instinctively!
 
 post-par4: I am on the balloon. I feel empty! Now TUBULAR people are looking so excited. Well, I am NOT! Please?! Can anyone hear me? I want to get down! I don't want to go to the Troposphere. Or was it the Stratosphere? Like I know the difference and have to care! Omg, I am moving! Cross your fingers and pray for me! Hope the TUBULAR team knows what they are doing and won't make me burst... I DON'T WANT TO DIEEEE!!! I AM SO YOUNG!
+
+---
