@@ -7,7 +7,7 @@ pretty-date: April 6, 2018
 img: bag-with-a-view.png
 thumbnail: bag-with-a-view.png
 author: Kyriaki Blazaki
-author-url: 
+author-url: #
 
 post-par1: Yesterday, Núria introduced me to you. BUT..... did she tell you all the tortures, oops, I mean stages, team TUBULAR wants to put me through in order to accomplish their goals? Of course not! So here is the truth.
 
