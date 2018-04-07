@@ -1,6 +1,6 @@
 ---
-title: Bag With a View!
-subtitle: a bag's diary..
+title: Bag with a View!
+subtitle: A bag's diary.
 layout: default
 date: 2018-04-06
 pretty-date: April 6, 2018
