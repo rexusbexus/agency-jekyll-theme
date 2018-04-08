@@ -1,3 +1,4 @@
+---
 title: Transmission from the IT department
 subtitle: During this week...
 layout: default
@@ -13,3 +14,4 @@ post-par1: During this week TUBULARs crack IT team have been busy writing code. 
 post-par2: At the end of the week we have managed to implement both the UDP and TCP protocols. We where worried in the beginning that we would accidentally implement the it wrong and and get one byte per package as we're been told have happened on previous BEXUS flights. While a lot of work remains to finish the Telecommand/telemetry objects I do believe we're on the right track. 
 
 post-par3: Another problem which we have faced this week, that may not be as a big technical challenge, is the design of the graphical user interface for the groundstation. How should we go about in designing an interface that's easy to understand and operate while still allow one to get readings of all the sensors that will be onboard. One option we're discussing right now is to forgo any groundstation and instead have someone operate it manually from the gondola. In any case we will continue the hard work we been putting into the software side side of things.
+---
