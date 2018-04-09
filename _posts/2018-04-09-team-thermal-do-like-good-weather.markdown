@@ -1,4 +1,4 @@
-...
+---
 title: Team THERMAL do like good weather
 subtitle: Spring is here!
 layout: default
@@ -15,4 +15,4 @@ post-par2: For the moment we in thermal are working on calculating how the Octob
 
 post-par3: During next week we in thermal shall start with simulations to confirm that the electronics will survive whatever weather we have. The sun is a part on the passive thermal control and gives heat to the experiment and also to all of us in team TUBULAR to keep going.
 
-...
+---
