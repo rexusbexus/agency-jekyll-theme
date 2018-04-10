@@ -4,8 +4,8 @@ subtitle: Mechanical Department Craziness
 layout: default
 date: 2018-04-11
 pretty-date: April 11, 2018
-img: interfacing.JPG
-thumbnail: interfacing.JPG
+img: interfacing.jpg
+thumbnail: interfacing.jpg
 author: Pau Molas Roca
 author-url: #
 
