@@ -15,6 +15,6 @@ post-par2: Formally known as NMP 850.1.2 KNDC B and more affectionately known as
 
 post-par3: In order to make sure that the pump operates as expected it will undergo extensive testing. We want to be absolutely certain about how it will perform. Tests will include low pressure, low temperature, power consumption, pump & valve integration, pump & bags integration and maybe even more. It will also be important to check how well the pump responds to being stored at low temperatures and then being asked to turn on as this will be required during flight. As TUBULAR doesn't collect any data during the 2 hour floating phase our pump could get quite chilly if we are not careful. We have been warned by the manufacturers that if we let the pump cool too much we could have startup problems as the plastic diaphragm may be too cold to move. But not to worry, our thermal team are on the case to make sure that this delicate flower is well looked after. 
 
-post-par4: Until next time 
+post-par4: Until next time ^-^
 
 ---
