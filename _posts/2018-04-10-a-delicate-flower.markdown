@@ -4,8 +4,8 @@ subtitle: Breathing life into TUBULAR: one little pump, one big job.
 layout: default
 date: 2018-04-10
 pretty-date: April 10, 2018
-img: a-delicate-flower.png
-thumbnail: a-delicate-flower.png
+img: a-delicate-flower.jpg
+thumbnail: a-delicate-flower.jpg
 author: Natalie Lawton
 author-url: #
 
