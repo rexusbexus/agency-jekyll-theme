@@ -1,6 +1,6 @@
 ---
 title: A Delicate Flower
-subtitle: Breathing life into TUBULAR: one little pump, one big job.
+subtitle: Breathing life into TUBULAR. One little pump, one big job.
 layout: default
 date: 2018-04-10
 pretty-date: April 10, 2018
