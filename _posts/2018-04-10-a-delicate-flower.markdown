@@ -1,3 +1,4 @@
+---
 title: A Delicate Flower
 subtitle: Breathing life into TUBULAR: one little pump, one big job.
 layout: default
@@ -16,3 +17,4 @@ post-par3: In order to make sure that the pump operates as expected it will unde
 
 post-par4: Until next time ^-^
 
+---
