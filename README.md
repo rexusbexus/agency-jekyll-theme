@@ -7,7 +7,7 @@ Built using the [Agency bootstrap theme](https://startbootstrap.com/template-ove
 
 1. Make sure you have a [GitHub account](https://github.com). You can't publish blogposts if you don't have a GitHub account.
 2. Create a **square image** for your blogpost and upload it in the [img/blog folder](img/blog). It should be maximum 600x600 and less than 500 KB. The image filename should be in uncapitalized **[slug](https://en.wikipedia.org/wiki/Clean_URL#Slug)** format with the same name as your blogpost's title.
-3. If you don't want have image, you can find a free licensed one in one of these websites: [unsplash](http://unsplash.com), [pexels](http://pexels.com), or [pixabay](http://pixabay.com).
+3. If you don't have an image, you can find a free licensed one in one of these websites: [unsplash](http://unsplash.com), [pexels](http://pexels.com), or [pixabay](http://pixabay.com).
 4. The easiest way to crop your image into a square image is to use [this website](https://birme.net/). If you want to be creative and do some express photoshoping then [pixlr express](https://pixlr.com/express) is a good online app.
 5. Create a .markdown in the [\_posts folder](_posts). The filename should be in uncapitalized **[slug](https://en.wikipedia.org/wiki/Clean_URL#Slug)** format with the following pattern: _YYYY-MM-DD-title-of-the-blogpost.markdown_. 
 6. Are you sure you used a slug when naming both your blogpost image file and blogpost .markdown file? If you still don't know what a slug is then just [use this](https://blog.tersmitten.nl/slugify/).
