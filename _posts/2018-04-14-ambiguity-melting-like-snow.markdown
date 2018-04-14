@@ -1,6 +1,6 @@
 ---
 title: Ambiguity Melting Like Snow
-subtitle: The future bids a warm welcome - perhaps too warm...
+subtitle: The future bids a warm welcome. Perhaps too warm.
 layout: default
 date: 2018-04-14
 pretty-date: April 14, 2018
