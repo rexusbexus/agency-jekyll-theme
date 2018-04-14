@@ -1,7 +1,7 @@
 Website for BEXUS 26 – TUBULAR
 ==============================
 
-Built using the [Agency bootstrap theme](https://startbootstrap.com/template-overviews/agency/) adapted for Jekyll by [y7kim/agency-jekyll-theme](https://github.com/y7kim/agency-jekyll-theme)
+Built using the [Agency bootstrap theme](https://startbootstrap.com/template-overviews/agency/) adapted for Jekyll by [y7kim/agency-jekyll-theme](https://github.com/y7kim/agency-jekyll-theme).
 
 # How to publish a blogpost
 
