@@ -7,6 +7,7 @@ pretty-date: April 14, 2018
 img: ambiguity-melting-like-snow.png
 thumbnail: ambiguity-melting-like-snow.png
 author: Ivan Zankov
+author-url: #
 
 post-par1: Hej, good readers! This time it's another shout from your friendly neighborhood thermal team! My name is Ivan and when I am not working on BEXUS Thermal, I am on the watch for the Swedish spring approaching. The snow outside is melting quite quickly now - maybe spring will arrive in Kiruna by end of April, who knows?
 As the surfaces once concealed beneath these thick white blankets now come more into view, so too do our answers to the temperatures we can expect to see throughout the different elements of our experiment!
