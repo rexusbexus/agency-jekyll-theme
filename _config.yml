@@ -17,6 +17,11 @@ people:
   pic: kyriaki-blazaki
   position: Scientific Division
 
+
+- name: Emily Chen
+  pic: emily-chen
+  position: Mechanical Division
+
 - name: Jordi Coll Ortega
   pic: jordi-coll-ortega
   position: Mechanical Division
@@ -57,10 +62,6 @@ people:
 - name: Hamad Siddiqi
   pic: hamad-siddiqi
   position: Electrical Division
-
-- name: Vince Still
-  pic: vince-still
-  position: Thermal Adviser
 
 - name: Ivan Zankov
   pic: ivan-zankov
