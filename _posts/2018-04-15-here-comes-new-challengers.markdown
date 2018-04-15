@@ -1,6 +1,6 @@
 ---
 title: Here Comes New Challengers!
-subtitle: Shift-S: Call for reinforcements.
+subtitle: Shift-S - Call for reinforcements.
 layout: default
 date: 2018-04-15
 pretty-date: April 15, 2018
@@ -15,6 +15,6 @@ post-par2: There's definitely a lot of work left to be done si that's why we now
 
 post-par3: You're already heard about Erik from the blogpost he published a few days ago. Erik has joined the Thermal Division. As for Emily, she joined the Mechanical Division and you'll hear more about her tomorrow when she publishes her blogpost.
 
-post-par4: Today's lesson is: when the going gets tough, don't hesitate to reach out for help. There are plenty of cool people out there like Emily and Erik who can save the day. That's it for now folks, over and out! 
+post-par4: Today's lesson is that when the going gets tough, don't hesitate to reach out for help. There are plenty of cool people out there like Emily and Erik who can save the day. That's it for now folks, over and out.
 
 ---
