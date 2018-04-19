@@ -4,8 +4,8 @@ subtitle: 100g is too much
 layout: default
 date: 2018-04-19
 pretty-date: April 19, 2018
-img: unexpected.pgn
-thumbnail: unexpected.pgn
+img: unexpected.jpg
+thumbnail: unexpected.jpg
 author: Jordi Coll
 author-url: #
 
