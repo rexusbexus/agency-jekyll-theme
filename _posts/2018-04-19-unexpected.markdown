@@ -1,5 +1,5 @@
 ---
-title: Unexpected!.
+title: Unexpected!
 subtitle: 100g is too much
 layout: default
 date: 2018-04-19
