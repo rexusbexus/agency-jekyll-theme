@@ -4,8 +4,8 @@
  layout: default
  date: 2018-04-21
  pretty-date: April 21, 2018
- img: equation-everywhere.jpg
- thumbnail: equation-everywhere.jpg
+ img: equations-everywhere.jpg
+ thumbnail: equations-everywhere.jpg
  author: Erik Fagerstrom
  author-url: #
  
