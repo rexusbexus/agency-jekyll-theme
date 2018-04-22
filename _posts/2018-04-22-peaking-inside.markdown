@@ -15,5 +15,5 @@ post-par2: Solution 1 -> Mooooooooooooorrrrrrrrrrrrrrrrrre batteries. Solution 2
 
 post-par3: After swiftly disregarding solution 3 and not wanting the added complexity of solution 1 we decided to use a combination of solutions 2, 4 and 5. After pulling our hair out over valves for weeks we finally managed to track down a valve that doesn't have quite such a crazy power consumption and current draw. Then by having a maximum of two valves open at any one time and ensuring the pump and heaters are never on at the same time our calculations suggest that we will even have power to spare.
 
-post-par4: But what will we do with the left over power you ask? Well.. that’s classified ;)
+post-par4: But what will we do with the left over power you ask? Well.. that’s classified.
 ---
