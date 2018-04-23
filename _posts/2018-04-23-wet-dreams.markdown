@@ -5,7 +5,7 @@ layout: default
 date: 2018-04-23
 pretty-date: April 23, 2018
 img: wet-dreams.png
-thumbnail: wet-dreams.png
+thumbnail: wet-dreams-zoom.png
 author: Pau Molas Roca
 author-url: #
 
