@@ -15,6 +15,6 @@ post-par2: So, we are busy in finishing the schematics, ordering the sensors, bu
 
 post-par3: I would like to discuss more the schematics because I am working on it for some weeks now. According to my experience up till this time, I should tell you some points that everything seems very simple and easy at the beginning of the design but later when you go deeper and start to work on the details then you realize that the things are not as easy as you think. Also, other teams such as science, mechanical or thermal put their influence on your design and many times you need to cope with their demands. Anyhow, the key is to keep up your morale and be positive all the time.
 
-post-par4: Thank you for reading my blog and visiting us today. 😊 Vi Ses! (We see each other again)
+post-par4: Thank you for reading my blog and visiting us today. Vi Ses! (We see each other again)
 
 ---
