@@ -5,7 +5,7 @@ layout: default
 date: 2018-04-26
 pretty-date: April 26, 2018
 img: the-second-law-of-thermodynamics.jpg
-thumbnail: the-second-law-of-thermodynamics.jpg
+thumbnail: the-second-post-thumbnail.jpg
 author: Ivan Zankov
 author-url: #
 
