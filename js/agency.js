@@ -13,6 +13,12 @@ $(function() {
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
+
+    // Load the portfolio/blogpost modal if its hashtag identifier is part of the URL.
+    var modalHash = window.location.hash;    
+    if (modalHash){
+        $(modalHash).modal('show');
+    }
 });
 
 // Highlight the top nav as scrolling occurs
