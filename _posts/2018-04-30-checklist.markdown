@@ -1,6 +1,6 @@
 ---
 title: Checklists
-subtitle: and paper work..
+subtitle: and paper work!
 layout: default
 date: 2018-04-30
 pretty-date: April 30, 2018
@@ -15,7 +15,6 @@ post-par2: As the Critical Design Review is around the corner, the members of th
 
 post-par3: And if you think that this period is the most relaxed for the science team, you are mistaken! We may not be under the same pressure as the other team members, trying to figure out how to build the experiment, but we have to study a lot, to be able to answer all their questions! How many sensors do you need? Where do you want them? What do you want to measure? 
 
-post-par4: Currently, we are trying to make a checklist with all the things that need to be tested and done before launch in order to make sure that we won’t miss anything important that will prove fatal for our experiment. Imagine forgetting a valve open! Oops….
-What is more, we are trying to understand and put in order all the steps required for the bag’s tests and how we will analyze the data, by studying past research papers. Phew! That’s all for now! See you soon xxx
+post-par4: Currently, we are trying to make a checklist with all the things that need to be tested and done before launch in order to make sure that we won’t miss anything important that will prove fatal for our experiment. Imagine forgetting a valve open! Oops.. What is more, we are trying to understand and put in order all the steps required for the bag’s tests and how we will analyze the data, by studying past research papers. Phew! That’s all for now! See you soon xxx
 
 ---
