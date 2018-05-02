@@ -1,5 +1,5 @@
 ---
-title: Flying-home-and-a-movie
+title: Flying home and a movie
 subtitle: Become inspired to greatness
 layout: default
 date: 2018-05-02
