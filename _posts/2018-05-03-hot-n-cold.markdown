@@ -1,0 +1,19 @@
+---
+title: Hot N Cold
+subtitle: Simulations is super fun and colorful
+layout: default
+date: 2018-05-03
+pretty-date: May 3, 2018
+img: hot-n-cold.jpg
+thumbnail: hot-n-cold.jpg
+author: Erik Fagerstrom
+author-url: #
+
+post-par1: Now when the SED deadline is getting closer and everything is coming on place we in thermal are simulating the temperature of TUBULAR to see if it will be problems. It comes with problems doing simulations cause it’s hot then it’s cold, I say yes it’s working, then ansys says no, it will fly up and then fall down. The hardest is that it need to take into account and simulate all different critical stages.
+
+post-par2: One of the most interesting things with simulating is that you will see the experiment on a whole different way then everyone else. Seeing how the temperature will increase and decrease with how the sun is hitting the sides. Can be up to 70 degrees difference on the aluminium shell on the opposite sides of the experiment.
+
+post-par3: So now it will be analyse the results to see if more insulation needs to be added, does some need to be reduced. A lot of critical decision have to be taken and in a short time 9 days left until the design shall be done. All of us in TUBULAR shall be working super hard to make it the best and we in thermal will keep going hot by grinding our gear thinking hard.  
+
+post-par4: Keep it “lagom” like we say in Sweden, both Hot N Cold!
+---
