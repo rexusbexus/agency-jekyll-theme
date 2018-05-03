@@ -2,7 +2,7 @@
 title: Starting to Get Pumped
 subtitle: Tests, tests, tests, tests, tests
 layout: default
-date: 2018-05-03
+date: 2018-05-04
 pretty-date: May 4, 2018
 img: starting-to-get-pumped.png
 thumbnail: starting-to-get-pumped.png
