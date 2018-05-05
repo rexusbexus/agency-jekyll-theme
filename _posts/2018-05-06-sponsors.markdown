@@ -4,7 +4,7 @@ subtitle: Charging Batteries
 layout: default
 date: 2018-05-06
 pretty-date: May 06, 2018
-img: sponsors.png
+img: sponsors.jpg
 thumbnail: sponsors-zoom.png
 author: Pau Molas Roca
 author-url: #
