@@ -5,7 +5,7 @@ layout: default
 date: 2018-05-05
 pretty-date: Mei 5, 2018
 img: unit-test.png
-thumbnail: uunit-test.png
+thumbnail: unit-test.png
 author: Muhammad Ansyar Rafi Putra
 author-url: #
 
