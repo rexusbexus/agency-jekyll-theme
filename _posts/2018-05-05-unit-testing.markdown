@@ -4,7 +4,7 @@ subtitle:  Finding your logic errors ASAP
 layout: default
 date: 2018-05-05
 pretty-date: Mei 5, 2018
-img: lets-be-specialist.png
+img: unit-test.png
 thumbnail: uunit-test.png
 author: Muhammad Ansyar Rafi Putra
 author-url: #
