@@ -1,6 +1,6 @@
 ---
 title: Canned Heat
-subtitle: Is it heat from excitement or fury? Not sure
+subtitle: Not sure anymore if heat from excitement or fury.
 anymore.
 layout: default
 date: 2018-05-08
