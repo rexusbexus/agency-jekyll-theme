@@ -1,7 +1,6 @@
 ---
 title: Canned Heat
-subtitle: Not sure anymore if heat from excitement or fury.
-anymore.
+subtitle: Not sure anymore if heat from excitement or fury anymore.
 layout: default
 date: 2018-05-08
 pretty-date: May 08, 2018
