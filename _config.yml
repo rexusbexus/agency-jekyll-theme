@@ -17,7 +17,6 @@ people:
   pic: kyriaki-blazaki
   position: Scientific Division
 
-
 - name: Emily Chen
   pic: emily-chen
   position: Mechanical Division
@@ -30,7 +29,7 @@ people:
   pic: gustav-dyrssen
   position: Software Division
 
-- name: Erik Fagerstrom
+- name: Erik Fagerström
   pic: erik-fagerstrom
   position: Thermal Division
 
@@ -54,6 +53,10 @@ people:
 - name: Pau Molas Roca
   pic: pau-molas-roca
   position: Mechanical Division
+  
+- name: Emil Nordqvist
+  pic: emil-nordqvist
+  position: Electrical Division
 
 - name: Ansyar Rafi Putra
   pic: muhammad-ansyar-rafi-putra
@@ -66,17 +69,6 @@ people:
 - name: Ivan Zankov
   pic: ivan-zankov
   position: Thermal Division
-
-#- name: Emily Chen
-#  pic: emily-chen
-#  position: Mechanical Division
-#  social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: google-plus
-#      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
