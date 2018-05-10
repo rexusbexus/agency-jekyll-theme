@@ -1,6 +1,6 @@
 ---
 title: All Dem Management Tools
-subtitle: A new challenger!
+subtitle: Making management great again.
 layout: default
 date: 2018-05-10
 pretty-date: May 10, 2018
