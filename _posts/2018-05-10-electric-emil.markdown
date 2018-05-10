@@ -4,8 +4,8 @@ subtitle: A new challenger!
 layout: default
 date: 2018-05-10
 pretty-date: May 10, 2018
-img: electric-emil.png
-thumbnail: electric-emil.png
+img: electric-emil.jpg
+thumbnail: electric-emil.jpg
 author: Georges L. J. Labrèche
 author-url: https://www.linkedin.com/in/georgeslabreche/
 
