@@ -14,7 +14,7 @@ post-par1: Hi! Today is Nuria writing the blogpost. This week is being our busie
 
 
 
-post-par2: The plan was to test 8 bags to see if they hold the concentration of gases for more than 48h and also check if condensation occurs. We spent half a day doing the preparations for the tests and flushing the sampling bags with nitrogen. Then we made the analysis plan and the first two bags had to be analysed after 6h of being filled, which was 12:30 AM! 
+post-par2: The plan was to test 8 bags to see if they hold the concentration of gases for more than 48h and also check if condensation occurs. We spent half a day doing the preparations for the tests and flushing the sampling bags with nitrogen. Then we made the analysis plan and the first two bags had to be analysed after 6h of being filled, which was 12.30 AM! 
 
 
 
