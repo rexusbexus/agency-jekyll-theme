@@ -12,15 +12,9 @@ author-url: #
 
 post-par1: Hi! Today is Nuria writing the blogpost. This week is being our busiest week since we are submitting the SED 2.0 on Monday 14th. Furthermore, Natalie and I travelled for two days to the Finish Meteorological Institute. During our stay there, we got to meet Rigel Kivi and Pauli Heikkinen, two scientists that work at the FMI and are collaborating on our project.
 
-
-
 post-par2: The plan was to test 8 bags to see if they hold the concentration of gases for more than 48h and also check if condensation occurs. We spent half a day doing the preparations for the tests and flushing the sampling bags with nitrogen. Then we made the analysis plan and the first two bags had to be analysed after 6h of being filled, which was 12.30 AM! 
 
-
-
 post-par3: It was a tough day and it turned out that we didn't get the expected results. We used 1L bags instead of 3L which are the ones used in our experiment. After analysing four of the eight bags, we saw that the concentration had changed in almost all of them. Our supposition is that there was some nitrogen left inside the plastic valve of the bag. Due to the smaller size of the bag (1L instead of 3L), that nitrogen diluted in the sample and altered the concentration. 
-
-
 
 post-par4: But the news is not all bad, we keep positive! We have learned the importance of vacuuming and flushing the bags properly and that the handling of the samples is very delicate and easily alterable. Further tests have been planned after this visit in order to know how our experiment will work and how the configuration will affect the sampling. 
 
