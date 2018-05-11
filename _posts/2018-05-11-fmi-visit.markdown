@@ -1,7 +1,7 @@
 
 ---
 title: FMI visit
-subtitle: Learning from the experts
+subtitle: Learning from the experts.
 layout: default
 date: 2018-05-11
 pretty-date: May 11, 2018
