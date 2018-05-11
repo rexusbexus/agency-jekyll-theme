@@ -1,6 +1,6 @@
 
 ---
-title: FMI visit
+title: Finish Metereological Institute visit
 subtitle: Learning from the experts.
 layout: default
 date: 2018-05-11
