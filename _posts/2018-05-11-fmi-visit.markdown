@@ -24,5 +24,4 @@ post-par3: It was a tough day and it turned out that we didn't get the expected 
 
 post-par4: But the news is not all bad, we keep positive! We have learned the importance of vacuuming and flushing the bags properly and that the handling of the samples is very delicate and easily alterable. Further tests have been planned after this visit in order to know how our experiment will work and how the configuration will affect the sampling. 
 
-
 ---
