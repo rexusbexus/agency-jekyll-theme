@@ -6,7 +6,7 @@ date: 2018-05-13
 pretty-date: May 13, 2018
 img: d-day.jpg
 thumbnail: d-day.jpg
-author: Jordi Coll Ortega feat. Samwise Gamgee
+author: Jordi Coll Ortega feat Samwise Gamgee
 author-url: #
 
 post-par1: TubularMember1 : I can't do this, TubularMember2.
