@@ -4,8 +4,8 @@ subtitle: Worth Fighting For
 layout: default
 date: 2018-05-13
 pretty-date: May 13, 2018
-img: .jpg
-thumbnail: .png
+img: d-day.jpg
+thumbnail: d-day.jpg
 author: Jordi Coll Ortega feat. Samwise Gamgee
 author-url: #
 
