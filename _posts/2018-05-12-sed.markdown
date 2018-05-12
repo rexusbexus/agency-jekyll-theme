@@ -4,8 +4,8 @@ subtitle: weather issues and cheesy quotes..
 layout: default
 date: 2018-05-12
 pretty-date: May 12, 2018
-img: sed.png
-thumbnail: cookies.jpg
+img: cookies.jpg
+thumbnail: sed.png
 author: Kyriaki Blazaki
 author-url: #
 
