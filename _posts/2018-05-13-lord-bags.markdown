@@ -2,7 +2,7 @@
 title: Lord of the bags
 subtitle: Worth Fighting For
 layout: default
-date: 2018-05-13
+date: 2018-05-12
 pretty-date: May 13, 2018
 img: lord-bags.jpg
 thumbnail: lord-bags.jpg
