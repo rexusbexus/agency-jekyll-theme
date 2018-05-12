@@ -1,5 +1,5 @@
 ---
-title: D-Day
+title: Lord of the bags
 subtitle: Worth Fighting For
 layout: default
 date: 2018-05-13
