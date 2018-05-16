@@ -15,6 +15,6 @@ post-par2: There's nothing quite like the realisation that you really should rea
 
 post-par3: From the beautiful scenes set in chapter 1 the introductions of all the major characters was sublime. The exposition and build up in chapter 4, where our sensible box began its journey, was nothing short of literary genius and the magnificent twists that occured in chapter 5 truly had me on the edge of my seat. The way the authors gave the resolution in chapter 7 brought a small tear to my eye, it was truly wonderful to see the sensible box overcome all the trials and tribulations set out before it. Though the shocking introduction of the witch in Appendix I leaves me impatient to read the sequel.
 
-post-par4: Overall I would rate this SED 10/10. With a solid story and well fleshed out characters this piece is surely destined to become a staple in literature. I would recommend it to all as a perfect piece for some bed time reading.
+post-par4: Overall I would rate this SED a perfect 5/7. With a solid story and well fleshed out characters this piece is surely destined to become a staple in literature. I would recommend it to all as a perfect piece for some bed time reading.
 
 ---
