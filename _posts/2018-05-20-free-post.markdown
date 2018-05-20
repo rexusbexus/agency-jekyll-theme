@@ -10,7 +10,7 @@ author: Hamad Siddiqi
 author-url: https://www.linkedin.com/in/hamadsiddiqi/
 
 post-par1: Hello people! It’s Sunday here and I will talk some of my random thoughts today.
-post-par2: If you are following us recently then you definitely know that we are done with the submission of our SED. Now, the team is looking forward to flying to Noordwijk to defend the proposed design and to get approval by the panel to start building the experiment. I am sure that we will pass the CDR in the second attempt if not in the first presentation. After submitting the SED report, the team is much relaxed and enjoying get together with BBQ, dancing, and partying.
+post-par2: If you are following us recently then you would definitely know that we are done with the submission of our SED. Now, the team is looking forward to flying to Noordwijk to defend the proposed design and to get approval by the panel to start building the experiment. I am sure that we will pass the CDR in the second attempt if not in the first presentation. After submitting the SED report, the team is much relaxed and enjoying get together with BBQ, dancing, and partying.
 post-par3: The time is passing quite fast so wish us good luck that we complete all the stages on time and give you guys good news of our successful flight in October. This is it from my side today. Ha det bra! Vi Ses! Allahafiz!
 
 ---
