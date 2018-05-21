@@ -1,6 +1,6 @@
 ---
 title: Designer’s Dejection
-subtitle: The old draft didn’t fit the style, but now, the new one doesn’t either.
+subtitle: When what could have been, and what is are both wrong.
 layout: default
 date: 2018-05-21
 pretty-date: May 21, 2018
