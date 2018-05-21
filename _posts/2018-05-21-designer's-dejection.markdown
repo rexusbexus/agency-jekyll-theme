@@ -4,8 +4,8 @@ subtitle: The old draft didn’t fit the style, but now, the new one doesn’t e
 layout: default
 date: 2018-05-21
 pretty-date: May 21, 2018
-img: designers-dejection.jpg
-thumbnail: designers-dejection.jpg
+img: ambiguity-melting-like-snow.jpg
+thumbnail: mbiguity-melting-like-snow.jpg
 author: Ivan Zankov
 author-url: #
 
