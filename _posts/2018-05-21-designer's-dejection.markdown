@@ -5,7 +5,7 @@ layout: default
 date: 2018-05-21
 pretty-date: May 21, 2018
 img: ambiguity-melting-like-snow.png
-thumbnail: mbiguity-melting-like-snow.png
+thumbnail: ambiguity-melting-like-snow.png
 author: Ivan Zankov
 author-url: #
 
