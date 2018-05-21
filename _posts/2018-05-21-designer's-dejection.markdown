@@ -4,8 +4,8 @@ subtitle: The old draft didn’t fit the style, but now, the new one doesn’t e
 layout: default
 date: 2018-05-21
 pretty-date: May 21, 2018
-img: designer’s_dejection.jpg
-thumbnail: designer’s_dejection.jpg
+img: designer’s-dejection.jpg
+thumbnail: designer’s-dejection.jpg
 author: Ivan Zankov
 author-url: #
 
