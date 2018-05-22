@@ -1,6 +1,6 @@
 ---
 title: Passing the Baton
-subtitle: First!
+subtitle: Now run like the wind!
 layout: default
 date: 2018-05-22
 pretty-date: May 22, 2018
