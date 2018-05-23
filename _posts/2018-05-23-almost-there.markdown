@@ -1,6 +1,6 @@
 ---
 title: Almost there
-subtitle: Good news!
+subtitle: Good news
 layout: default
 date: 2018-05-23
 pretty-date: May 23, 2018
