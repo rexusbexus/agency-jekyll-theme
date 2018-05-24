@@ -1,0 +1,27 @@
+---
+title: Concerns 
+subtitle: and more concerns!
+layout: default
+date: 2018-05-24
+pretty-date: May 24, 2018
+img: concerns.jpg
+thumbnail: concerns.jpg
+author: Núria Agües Paszkowsky
+author-url: #
+
+post-par1: Hi! Today is Nuria writing the blogpost. As you may know, team TUBULAR has been doing some testing and that has brought up new problems or concerns. 
+
+
+
+post-par2: A good example for this is when we first tested filling a bag with the pump at low pressure. We first emptied the bag manually and thought it was empty, it looked empty. Then we put it in the vacuum chamber and started decreasing the pressure to simulate the conditions at 24 km of altitude. It turned out that, apparently, some air was still left inside the bag and as the pressure was decreasing we could see the air expanding. The pump had not been turned on yet. 
+
+
+
+post-par3: Then we visited FMI and saw that very little amount of air left in between valves could affect the results. Comparing the test configuration to our experiment configuration, we observed that we have longer tubes and therefore more air inside. This configuration created two big concerns. The first one was that the air left inside would mix with the sampled air and modify the concentrations. However, talking with the experts at FMI we understood that this effect can be compensated as far as we know how much air was there. 
+
+
+
+post-par4: The second concern was if the amount of air inside the tubes would be large enough to fill up the bag and prevent the sampling. Everyone started freaking out with the idea that if this was true we would have to change our design being CDR very close… Science started calculating the numbers for the worst-case scenario which is tubes of 60 cm and best-case scenario, tubes of 25 cm, and then compared it with the air that would be remaining in the AirCore if we reached 26 km and… WE ARE SAFE! The results show that if we vacuum the air inside the tubes, we will have less air remaining in the bags than in the AirCore! 
+
+
+---
