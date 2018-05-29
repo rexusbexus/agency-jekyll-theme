@@ -5,8 +5,8 @@ subtitle: Let the show begin!
 layout: default
 date: 2018-05-29
 pretty-date: May 29, 2018
-img: going-to-cdr.jpg
-thumbnail: going-to-cdr.jpg
+img: going-to-cdr.JPG
+thumbnail: going-to-cdr.JPG
 author: Erik Fagerstrom
 author-url: #
  
