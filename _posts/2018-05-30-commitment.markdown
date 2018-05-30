@@ -5,7 +5,7 @@ layout: default
 date: 2018-05-30
 pretty-date: May 30, 2018
 img: commitment.png
-thumbnail: commitment.png
+thumbnail: commitment-zoom.png
 author: Pau Molas Roca
 author-url: #
 
