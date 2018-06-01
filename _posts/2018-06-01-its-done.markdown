@@ -4,7 +4,7 @@ subtitle: Almost everything atleast
 layout: default
 date: 2018-01-01
 pretty-date: Jun 1, 2018
-img: commitment.png
+img: summer-emptines.jpg
 thumbnail: summer-emptines.jpg
 author: Emil Nordqvist
 author-url: #
