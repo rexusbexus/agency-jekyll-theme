@@ -3,7 +3,7 @@ title: It's done!
 subtitle: Almost everything atleast
 layout: default
 date: 2018-01-01
-pretty-date: Jun 1, 2018
+pretty-date: June 1, 2018
 img: its-done.jpg
 thumbnail: its-done.jpg
 author: Emil Nordqvist
