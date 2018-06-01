@@ -1,6 +1,6 @@
 ---
 
-title: Proud!!
+title: Proud
 subtitle: The software is looking good
 layout: default
 date: 2018-06-01
