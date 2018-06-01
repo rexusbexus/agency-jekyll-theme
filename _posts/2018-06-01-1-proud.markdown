@@ -5,8 +5,8 @@ subtitle: The software is looking good
 layout: default
 date: 2018-06-01
 pretty-date: June 1, 2018
-img: image-001.jpg
-thumbnail: image-001.jpg
+img: proud.jpg
+thumbnail: proud.jpg
 author: Muhammad Ansyar Rafi Putra
 author-url: @ansyarafi
  
