@@ -8,7 +8,7 @@ pretty-date: June 1, 2018
 img: proud.jpg
 thumbnail: proud.jpg
 author: Muhammad Ansyar Rafi Putra
-author-url: @ansyarafi
+author-url: #
  
 post-par1: Hai hai.. Ansyar is here!! Yesterday was a big day for us. We just finished the CDR and hopefully we will pass it as well. There is nothing more that I can say to express my feeling than PROUD. I'm so proud of the team, we worked hard, but also study hard. (Yeehaa). FYI, we have just finished our last exam today (wohooo).
 
