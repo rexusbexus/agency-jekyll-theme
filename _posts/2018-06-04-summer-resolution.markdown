@@ -1,6 +1,6 @@
 ---
 title: Summer Resolution
-subtitle: It’s a bit bittersweet.
+subtitle: A bit bittersweet if you ask me.
 layout: default
 date: 2018-06-04
 pretty-date: June 04, 2018
