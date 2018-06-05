@@ -7,6 +7,7 @@ pretty-date: June 5, 2018
 img: time-for-some-actions.jpeg
 thumbnail: time-for-some-actions.jpeg
 author: Emily Chen
+author-url: #
 
 post-par1: Good news, good news, good news!! We finally received our structure bars from Bosch Rexroth that we ordered two weeks ago. More items from them are also coming within these fews weeks. It is also planned that we will soon go out to town and buy the aluminum sheet and styrofoam that will be our walls in our experiment.
 
