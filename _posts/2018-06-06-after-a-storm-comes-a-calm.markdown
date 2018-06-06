@@ -4,8 +4,8 @@ subtitle: Chilling time
 layout: default
 date: 2018-06-06
 pretty-date: June 6, 2018
-img: after-a-storm-comes-a-calm.jpeg
-thumbnail: after-a-storm-comes-a-calm.jpg
+img: after-a-storm-comes-a-calm.jpg
+thumbnail: after-a-storm-comes-a-calm.jpeg
 author: Núria Agües Paszkowsky
 author-url: #
 
