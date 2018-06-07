@@ -13,7 +13,7 @@ post-par1: Hej mina vänner! It's Kiki and today is my last day in Kiruna. For t
 
 post-par2: Coming to uni today, I run into Gustav from the software team. We talked a little bit about his job at the mine and I told him how I am planning to spend my summer, which can be summarized into 3 words- Beach, Sun, and Fun! And Bexus of course!!   
 
-post-par3: For some reason though, he thought that I will be bored, and told me, or to be precise, challenged me to solve the P vs NP Problem! Yeah, I had the same puzzled face as you. I googled it, didn't understand much BUT the interesting thing is the prize. One million dollars! Can you imagine how many Aircore and bags could we flew with one million dollars? 
+post-par3: For some reason though, he thought that I will be bored, and told me, or to be precise, challenged me to solve the P vs NP Problem! Yeah, I had the same puzzled face as you. I googled it, didn't understand much BUT the interesting thing is the prize. One million dollars! Can you imagine how many Aircore and bags could we fly with one million dollars? 
 
 post-par4: The science team has your back, TUBULAR people! Challenge accepted Gustav! Prepare your wallets! 
 
