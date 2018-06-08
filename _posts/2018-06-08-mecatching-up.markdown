@@ -4,8 +4,8 @@ subtitle: ... and a bit of promotion
 layout: default
 date: 2018-06-08
 pretty-date: June 8, 2018
-img: mecatching.jpg
-thumbnail: mecatching.jpg
+img: mecatching.png
+thumbnail: mecatching.png
 author: Jordi Coll Ortega
 author-url: https://www.linkedin.com/in/jordi-coll-ortega-5857a06a/
 
