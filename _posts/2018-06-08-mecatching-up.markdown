@@ -1,6 +1,6 @@
 ---
-title: Mecatching-up
-subtitle: Diary of a No-summer period
+title: Mecatching-up...
+subtitle: ... and a bit of promotion
 layout: default
 date: 2018-06-08
 pretty-date: June 8, 2018
