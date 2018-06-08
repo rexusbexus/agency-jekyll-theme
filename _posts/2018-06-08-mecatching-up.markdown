@@ -1,5 +1,5 @@
 ---
-title: Mecatching up
+title: Mecatching-up
 subtitle: Diary of a No-summer period
 layout: default
 date: 2018-06-08
