@@ -15,6 +15,6 @@ post-par2: In the last episode, we were still working on computer analysis softw
 
 post-par3: Moreover (another secret that must stay here), we were that sure about our design that we ordered most of the structure components before the CDR! Luckily, we got a super PASS and only minor changes had to be implemented, so we are on track.
 
-post-par4: Finally, I don’t want to say bye without thank Bosch Rexroth for that super cool 45% discount they gave us! By now I’m just waiting for the components to arrive while looking for a Master Thesis topic/Internship/opportunity. If any reader is interested, you can contact me whenever you want through my email (jordicoll.28@gmail.com) or clicking on my name down here. I’m a great engineer, you won’t be disappointed!
+post-par4: Finally, I don’t want to say bye without thank Bosch Rexroth for that super cool 45% discount they gave us! By now I’m just waiting for the components to arrive while looking for a Master Thesis topic/Internship/opportunity. If any reader is interested, you can contact me whenever you want through my email (jordicoll.28@gmail.com) or clicking on my name down here. I’m a great engineer, you won’t be disappointed! I really hope that the blog picture was click-bite enought to get you until here.
 
 ---
