@@ -5,8 +5,8 @@ subtitle: Is this real?
 layout: default
 date: 2018-06-10
 pretty-date: June 10, 2018
-img: preperation-and-excitment.jpg
-thumbnail: preperation-and-excitment.jpg
+img: preperation-and-excitment.jpeg
+thumbnail: preperation-and-excitment.jpeg
 author: Erik Fagerstrom
 author-url: #
 
