@@ -15,22 +15,8 @@
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
 
     <!-- lazyload -->
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
-    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.plugins.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-beta.2/lazyload.js"></script>
 
     <script>
-        $(function() {
-            $('.lazy').Lazy();
-        });
+        lazyload();
     </script>
-                
-
-    <!--script>
-        $(function() {
-            var feed = new Instafeed({
-                clientId: 'tubularbexus'
-            });
-            feed.run();
-        });
-    </script-->
-
