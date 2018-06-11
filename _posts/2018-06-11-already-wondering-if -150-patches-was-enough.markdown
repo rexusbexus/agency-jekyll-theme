@@ -5,8 +5,8 @@ subtitle: But where are the hoodies?
 layout: default
 date: 2018-06-11
 pretty-date: June 11, 2018
-img: already-wondering-if-150-patches-was-enough.jpg
-thumbnail: already-wondering-if-150-patches-was-enough-inner.jpg
+img: already-wondering-if-150-patches-was-enough-inner.jpg
+thumbnail: already-wondering-if-150-patches-was-enough.jpg
 author: Natalie Lawton
 author-url: #
 
