@@ -4,13 +4,13 @@ subtitle: Home
 layout: default
 date: 2018-06-12
 pretty-date: June 12, 2018
-img: vacation.png
-thumbnail: vacation.png
+img: vacation.jpeg
+thumbnail: vacation-zoom.JPG
 author: Pau Molas Roca
 author-url: www.linkedin.com/in/paumolasroca
 
 post-par1: Hej people!!!! 
-post-par2: 
-post-par3: 
-post-par4: 
+post-par2: Finally home. Enjoy my place, hanging out with friends, wokring in my father's streaming company, starting my company with my brother, doing lots of sport and of course...
+post-par3: Introducing the changes suggested during our fruitful CDR two weeks ago in ESTEC. So polishing detail and solving doubts from our team memebers still in Kiruna.
+post-par4: Ciao ciao!
 ---
