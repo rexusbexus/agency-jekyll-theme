@@ -7,7 +7,7 @@ pretty-date: May 30, 2018
 img: commitment.png
 thumbnail: commitment-zoom.png
 author: Pau Molas Roca
-author-url: www.linkedin.com/paumolasroca
+author-url: www.linkedin.com/in/paumolasroca
 
 post-par1: Hej people!!!! The Tubular Team has landed in ESTEC today! We feel ready for tomorrows quest, excited to show our work to the panel! 
 post-par2: The last two weeks have been a bit stressful, just a tiny little bit, having to take the exams before the rest if the class (thanks to our university to make it possible, they always commit to it giving all the facilities to their students! Tack så mycket!). So, two exams, a bunch of projects to submit and, of course the CDR presentation. Just a few adjustments during our flights to the main land and everything is set for tomorrow.
