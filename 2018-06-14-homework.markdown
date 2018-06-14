@@ -1,0 +1,15 @@
+---
+title: Dedication
+subtitle: Homework
+layout: default
+date: 2018-06-14
+pretty-date: June 14, 2018
+img: homework.jpeg
+thumbnail: homework.JPG
+author: Muhammad Ansyar Rafi Putra
+author-url: #
+
+post-par1: Hai from Indonesia. 
+post-par2: Yes, currently I'm at my home country for the whole summer. However, I cannot abandon the workload of BEXUS. We have SED deadline due in 2-3 weeks, and IPR at the end of July. The team members who stay in Kiruna are working hard nowadays to build the experiment worth for IPR. Eventhough I'm more than 10k km away from them. I still need to contribute, mostly in SED. Work hard, play hard!!
+post-par3: Have a nice summer all. Daahh!! (Byee!!)
+---
