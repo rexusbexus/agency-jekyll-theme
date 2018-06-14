@@ -4,8 +4,8 @@ subtitle: Homework
 layout: default
 date: 2018-06-14
 pretty-date: June 14, 2018
-img: homework.jpeg
-thumbnail: homework.JPG
+img: homework.png
+thumbnail: homework.png
 author: Muhammad Ansyar Rafi Putra
 author-url: #
 
