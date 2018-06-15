@@ -1,0 +1,16 @@
+---
+title: EID
+subtitle: Celebrations!
+layout: default
+date: 2018-06-15
+pretty-date: June 15, 2018
+img: eid.jpg
+thumbnail: bbq.jpg
+author: Hamad Siddiqi
+author-url: https://www.linkedin.com/in/hamadsiddiqi/
+
+post-par1: Hello dear readers, it’s the most special day for me not because of my birthday today. But because of the EID, for those who don’t know about it, it’s the day which Muslims celebrate after fasting for the whole month of Ramazan by eating lots of delicious food, sweets and get-togethers with the family and friends.
+post-par2: So far, I am celebrating this day by taking the bus at 8 o’clock in the morning, doing my breakfast with a cup of coffee and chocolate, meeting the project supervisor, and attending a presentation in the university. Still, a lot of day is left and the life is full of surprises. So, guys, I am optimistic for the more cheerful time ahead and of course about our project as well. 
+post-par3: Thank you for visiting us on a very special day and becoming a part of it. Goodbye, Allahafiz, hejdå! Och ha en bra dag!
+
+---
