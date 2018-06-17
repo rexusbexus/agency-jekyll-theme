@@ -5,7 +5,7 @@ layout: default
 date: 2018-06-17
 pretty-date: June 17, 2018
 img: silcotek-coated-tubing.jpg
-thumbnail: silcotek-logo.jpg
+thumbnail: silcotek-logo.png
 author: Georges L. J. Labrèche
 author-url: https://www.linkedin.com/in/georgeslabreche/
 
