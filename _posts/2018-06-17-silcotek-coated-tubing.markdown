@@ -4,8 +4,8 @@ subtitle: Game changing Sulfinert coatings.
 layout: default
 date: 2018-06-17
 pretty-date: June 17, 2018
-img: silcotek-coated-tubing.jpg
-thumbnail: silcotek-logo.png
+img: silcotek-logo.png
+thumbnail: silcotek-coated-tubing.jpg
 author: Georges L. J. Labrèche
 author-url: https://www.linkedin.com/in/georgeslabreche/
 
