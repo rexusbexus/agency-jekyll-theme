@@ -15,6 +15,6 @@ post-par2: SilcoTek are THE guys to go to for corrosion resistance and chemical 
 
 post-par3: We need to make sure that the samples we collect do not chemically react with our experiment's material so that means that inertness is a big deal!
 
-post-par4: What wer're getting exactly is 50ft of Welded/Drawn 304 Grade Stainless Steel Tubing (Sulfinert Treated). This coated tubing is fantastic for inert applications. Sulfinert is a required treatment for metal components when analyzing for parts-per-billion levels of organo-sulfur compounds. Wow!
+post-par4: What we're getting exactly is 50ft of Welded/Drawn 304 Grade Stainless Steel Tubing (Sulfinert Treated). This coated tubing is fantastic for inert applications. Sulfinert is a required treatment for metal components when analyzing for parts-per-billion levels of organo-sulfur compounds. Wow!
 
 ---
