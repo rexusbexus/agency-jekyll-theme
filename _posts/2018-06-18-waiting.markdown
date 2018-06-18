@@ -1,0 +1,16 @@
+---
+title: Waiting ...
+subtitle: meanwhile World Cup is entertaining us
+layout: default
+date: 2018-06-18
+pretty-date: June 18, 2018
+img: waiting.jpg
+thumbnail: waiting.jpg
+author: Emily Chen 
+
+post-par1: Olé, Olé, Olé, Olé, it’s FIFA world cup time!!! I guess I’m not the only one who is watching the matches right? Today Sweden was against South Korea and won with 1-0. I’m so proud and happy for them and our country! Even through that goal was made through a penalty, but a goal is still a goal. Theirs next match will be against Germany and I have a feeling it will be tough but let’s hope the luck is on our side!
+
+post-par2: Anyway back to real business...The process in the mechanical team is going forward but slowly. As I said in last post, we have started to receive some ordered items but not all have arrived yet so we are still a bit in the waiting phase. And as for today, I have sent our final shopping list to our sponsor Swagelok regarding the desired tube fittings to AAC and CAC. I hope we will receive it within two weeks so we can start building the sampling system which is necessary for the IPR.
+
+post-par3: Well, this was all from me this time! I’m going to prepare myself for the next match which is England vs Tunisia. Who do you think will win? Leave us a message hehehe! 
+---
