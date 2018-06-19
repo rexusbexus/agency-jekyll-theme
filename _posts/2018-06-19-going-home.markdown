@@ -5,7 +5,7 @@ layout: default
 date: 2018-06-19
 pretty-date: June 19, 2018
 img: going-home2.jpeg
-thumbnail: going-home.jpeg
+thumbnail: going-home.jpg
 author: Núria Agües Paszkowsky
 author-url: #
 
