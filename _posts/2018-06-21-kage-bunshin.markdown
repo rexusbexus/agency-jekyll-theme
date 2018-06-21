@@ -4,8 +4,8 @@ subtitle: My lazy doppelgänger
 layout: default
 date: 2018-06-21
 pretty-date: June 21, 2018
-img: doppelganger.png
-thumbnail: doppelganger.png
+img: doppelganger.jpg
+thumbnail: doppelganger.jpg
 author: Jordi Coll Ortega
 author-url: https://www.linkedin.com/in/jordi-coll-ortega-5857a06a/
 
