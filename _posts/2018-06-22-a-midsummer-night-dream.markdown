@@ -1,6 +1,6 @@
 ---
 title: A midsummer night dream
-subtitle: Discourse on the festivities.
+subtitle: Discourse on the festivities
 layout: default
 date: 2018-06-22
 pretty-date: June 22, 2018
