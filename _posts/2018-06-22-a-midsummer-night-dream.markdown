@@ -1,5 +1,5 @@
 ---
-title: A Midsummer Night Dream
+title: A midsummer night dream
 subtitle: Discourse on the festivities.
 layout: default
 date: 2018-06-22
