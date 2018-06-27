@@ -5,8 +5,8 @@ subtitle: All ideas are good except the bad ones!
 layout: default
 date: 2018-06-23
 pretty-date: June 23, 2018
-img: how-to-fasten-styrofoam.jpeg
-thumbnail: how-to-fasten-styrofoam.jpeg
+img: how-to-fasten-styrofoam.jpg
+thumbnail: how-to-fasten-styrofoam.jpg
 author: Erik Fagerstrom
 author-url: #
 
