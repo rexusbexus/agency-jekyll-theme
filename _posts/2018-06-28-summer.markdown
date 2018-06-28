@@ -1,0 +1,16 @@
+---
+title: Summer 
+subtitle: Holidays!
+layout: default
+date: 2018-06-28
+pretty-date: June 28, 2018
+img: summer.jpg
+thumbnail: summer.jpg
+author: Hamad Siddiqi
+author-url: https://www.linkedin.com/in/hamadsiddiqi/
+
+post-par1: Hi guys! Summer is going on in its full swing and I am saying this because Bexus team while waiting for its components to arrive is relaxing so much that even some of us have started to forget to keep you guys updated.
+post-par2: I hope you guys understand that everyone needs some time off to relax. Recent update regarding electrical team is that all the electronics have been ordered. According to our project supervisor, the components should arrive next week which means the actual building of the experiment will start soon. 
+post-par3: This is all from me today. Enjoy the summer time. Goodbye! Allahafiz! Hejdå!  
+
+---
