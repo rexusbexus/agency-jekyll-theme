@@ -2,8 +2,8 @@
 title: First Post
 subtitle: First!
 layout: default
-date: 2018-04-03
-pretty-date: April 3, 2018
+date: 2018-07-01
+pretty-date: July 1, 2018
 img: real-life-experience.jpg
 thumbnail: real-life-experience.jpg
 author: Georges L. J. Labrèche
