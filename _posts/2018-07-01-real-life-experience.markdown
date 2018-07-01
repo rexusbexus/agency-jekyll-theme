@@ -4,8 +4,8 @@ subtitle: First!
 layout: default
 date: 2018-04-03
 pretty-date: April 3, 2018
-img: the-team.png
-thumbnail: real-life-experience.png
+img: real-life-experience.jpg
+thumbnail: real-life-experience.jpg
 author: Georges L. J. Labrèche
 author-url: https://www.linkedin.com/in/georgeslabreche/
 
