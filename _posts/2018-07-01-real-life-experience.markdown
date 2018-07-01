@@ -1,6 +1,6 @@
 ---
-title: First Post
-subtitle: First!
+title: Real Life Experience
+subtitle: Lyf!
 layout: default
 date: 2018-07-01
 pretty-date: July 1, 2018
