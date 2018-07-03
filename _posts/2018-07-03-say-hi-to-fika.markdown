@@ -4,8 +4,8 @@ subtitle: Our official mascot.
 layout: default
 date: 2018-07-03
 pretty-date: July 3, 2018
-img: say-hi-to-fika.jpeg
-thumbnail: fika.jpeg
+img: fika.jpeg
+thumbnail: say-hi-to-fika.jpeg
 author: Georges L. J. Labrèche
 author-url: https://www.linkedin.com/in/georgeslabreche/
 
