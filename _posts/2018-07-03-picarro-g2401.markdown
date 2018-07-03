@@ -1,0 +1,23 @@
+---
+title: Picarro G2401
+subtitle: A key component
+layout: default
+date: 2018-07-03
+pretty-date: June 3, 2018
+img: picarro-g2401-2.jpeg
+thumbnail: picarro-g2401.jpeg
+author: Núria Agües Paszkowsky
+author-url: #
+
+post-par1: Hej! Today I would like to introduce you a key component for team TUBULAR. The PICARRO G2401 analyzer owned by FMI. It uses near-infrared Cavity Ring Down Spectroscopy (CRDS) technology and is capable of measuring four atmospheric trace gases simultaneously and continuously (CO, CO2, CH4, H2O).
+
+
+
+post-par2: Once it is set up and with the help of some calibrating gases, the Picarro analyzer is easy to use. Just connect your sample to the Picarro inlet and use another gas or a vacuum pump to introduce the sample into the analizer's cavity where a laser beam is used to determine amounts of concentration. 
+
+
+
+post-par3: The second picture shows the Picarro Graphical User Interface but it does not only give information about the displayed parameters, all the data is saved in a .dat file to be analyzed afterwards. The most relevant logged parameters are time, date, ambient pressure, cavity pressure, cavity temperature, CO concentration, CO2, CH4 and H2O normal and dry concentration.
+
+post-par4: The conclusion is a lot of numbers to analyze! Looking forward to it!
+---
