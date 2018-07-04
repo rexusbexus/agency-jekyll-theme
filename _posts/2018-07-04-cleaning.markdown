@@ -1,0 +1,22 @@
+---
+title: AAC and CAC cleaning.
+subtitle: Not as simple as it sounds! 
+layout: default
+date: 2018-07-04
+pretty-date: July 4, 2018
+img: cleaning.png
+thumbnail: cleaning.png
+author: Kyriaki Blazaki
+author-url: #
+
+post-par1: Hello people! Hope you are doing fine! Today I'll talk about the cleaning of the AAC and CAC systems. Did you think that we will send our experiment dirty to fly?
+
+
+post-par2: The CAC system, the coiled tube will be flushed and filled with a fill gas. A fill gas is air with a spike of a known gas, for example CO. In the flushing process the two edges of the CAC will be connected to the fill gas bottle and Picarro analyzer respectively. A fill gas will then flow through the coiled tube all the way to the Picarro. It will be flushed over night to ensure unknown gases inside the tube will be removed. Then the two CAC edges will be sealed while the gas is still running through the CAC and therefore the CAC will be filled. Thereafter it will be attached to remaining components such as the magnesium perchlorate filter, and the solenoid valve. At this stage the CAC is ready for the flight. 
+
+
+post-par3: The cleaning procedure for the AAC system is a little bit more complicated! All the bags will be cleaned by flushing them with a dry gas the night before the flight. The dry gas is extracted from the fill gas and has slightly different concentrations from the fill gas. The dry gas bottle, the vacuum pump and the AAC system, will all be connected as a system to the central valve, as seen in the picture. Using the AAC valves and the bags manual valve to control which bags are sealed and which are opened the process will go through each bag individually. The central valve's position (which you can see in the picture) will determine whether the dry gas or the vacuum is open. When the valve is open to dry gas the sampling bags are being filled and when it is open to vacuum they are being emptied. The flushing has to be done three times for each bag to ensure the bags are properly cleaned. After the end of this procedure, when the bags are empty again, each bag will be sealed, by closing its valve, while the vacuum pump is open. The bags are clean and ready to take off!
+
+
+post-par4: Not as boring as cleaning your house, right?! 
+---
