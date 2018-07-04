@@ -3,7 +3,7 @@ title: Picarro G2401
 subtitle: A key component
 layout: default
 date: 2018-07-03
-pretty-date: June 3, 2018
+pretty-date: July 3, 2018
 img: picarro-g2401-2.jpeg
 thumbnail: picarro-g2401.jpeg
 author: Núria Agües Paszkowsky
