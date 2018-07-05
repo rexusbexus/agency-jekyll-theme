@@ -9,6 +9,7 @@
             </div>
             <div class="row">
             {% for post in site.posts %}
+                {% if (post.date | date: "%Y" <= 'now' | date: "%Y" ) and (post.date | date: "%m" <= 'now' | date: "%m") and (post.date | date: "%d") <= 'now' | date: "%d" %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#{{ post.title | slugify }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -23,6 +24,7 @@
                         <p class="text-muted">{{ post.subtitle }}</p>
                     </div>
                 </div>
+                {% endif %}
             {% endfor %}
             </div>
         </div>
