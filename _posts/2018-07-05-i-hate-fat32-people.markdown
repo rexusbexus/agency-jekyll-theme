@@ -1,6 +1,6 @@
 --- 
 title: I hate FAT32 people 
-subtitle: 
+subtitle: ...
 layout: default 
 date: 2018-07-05
 pretty-date: July 5, 2018 
