@@ -15,6 +15,6 @@ post-par2: Now that everything has started to arrive the next phase of the proje
 
 post-par3: Luckily we already have some vacuum testing secured so we can check out our valves, sensors and arduino in low pressure as well as the pump. Hopefully this testing will go jsut as well as our initial pump vacuum testing and everything will work as planned. But if it doesn't by testing early we have left plenty of time to make things work!
 
-post-par4: To hijack the England song for TUBULAR; Three gases to find, we'll send our box flying. Combining our minds, until we get it working. So lets hope that all the TUBULAR parts arrive home in Kiruna soon and that the football arrives home in England too! 
+post-par4: So lets hope that all the TUBULAR parts arrive home in Kiruna soon and that the football arrives home in England too! 
 
 ---
