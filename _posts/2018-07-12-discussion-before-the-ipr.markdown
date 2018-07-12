@@ -1,6 +1,6 @@
 ---
 title: Discussion Before the IPR
-subtitle: “Time is Running Out”
+subtitle: Time is Running Out
 layout: default
 date: 2018-07-12
 pretty-date: July 12, 2018
