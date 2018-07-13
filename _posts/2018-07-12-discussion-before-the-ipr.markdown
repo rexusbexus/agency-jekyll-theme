@@ -2,7 +2,7 @@
 title: Discussion Before the IPR
 subtitle: Time is Running Out
 layout: default
-date: 2019-12-30
+date: 2018-07-12
 pretty-date: July 12, 2018
 img: discussion-before-the-ipr.jpg
 thumbnail: discussion-before-the-ipr.jpg
