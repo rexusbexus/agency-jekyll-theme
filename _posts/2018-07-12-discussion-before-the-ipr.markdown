@@ -3,7 +3,7 @@ title: Discussion Before the IPR
 subtitle: Time is Running Out
 layout: default
 date: 2018-07-12
-pretty-date: July 12, 2018
+pretty-date: July 12, 2019
 img: discussion-before-the-ipr.jpg
 thumbnail: discussion-before-the-ipr.jpg
 author: Ivan Zankov
