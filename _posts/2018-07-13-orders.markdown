@@ -1,0 +1,15 @@
+---
+title: Orders
+subtitle: Raining of Packages
+layout: default
+date: 2018-07-13
+pretty-date: July 13, 2018
+img: components.jpeg
+thumbnail: components.jpeg
+author: Hamad Siddiqi
+author-url: https://www.linkedin.com/in/hamadsiddiqi/
+
+post-par1: Hi everyone! Reporting plus 25 degrees Celsius live here from Kiruna. The tubular team staying in Kiruna is enjoying some of the best summer days in the North. I think the better weather conditions affecting the postal services as well since the ordered packages are arriving daily. 
+post-par2: So far, many of the mechanical components arrived and the delivery of the electrical components is completed which means the electrical team has started the component level testing. And soon going to start the integration testing with our software team. The integration level testing, especially with the pump, valves and all the sensors, is necessary for the IPR. 
+post-par3: This is it from my side today. Hope you guys are also enjoying the summer. Goodbye! Allah Hafiz! Ha det bra! Vi Ses! 
+---
