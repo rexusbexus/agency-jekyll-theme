@@ -4,7 +4,7 @@ title: Pump requirements
 subtitle: How hot will the pump be?
 layout: default
 date: 2018-07-06
-pretty-date: June 6, 2018
+pretty-date: July 6, 2018
 img: pump-requirements.jpg
 thumbnail: pump-requirements.jpg
 author: Erik Fagerstrom
