@@ -3,7 +3,7 @@ title: Components are here
 subtitle: Finaly!
 layout: default
 date: 2018-07-09
-pretty-date: June 27, 2018
+pretty-date: July 9, 2018
 img: components-are-here.jpg
 thumbnail: components-are-here.jpg
 author: Emil Nordqvist
