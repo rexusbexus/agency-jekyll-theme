@@ -1,6 +1,6 @@
 ---
 title: Race Against Time
-subtitle: Keep calm and check the tracking status.
+subtitle: Keep calm and refresh the tracking page.
 layout: default
 date: 2018-07-17
 pretty-date: July 17, 2018
