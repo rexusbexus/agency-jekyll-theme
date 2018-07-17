@@ -9,7 +9,7 @@ thumbnail: race-against-time.png
 author: Georges L. J. Labrèche
 author-url: https://www.linkedin.com/in/georgeslabreche/
 
-post-par1: Hej people, Georges here eagerly refreshing the parcel tracking page for our awesome inert Sulfinert treated stainless steel tubing that was sponsored and sent to us by the folks over at SiloTek!
+post-par1: Hej people, Georges here eagerly refreshing the parcel tracking page for our awesome inert Sulfinert treated stainless steel tubing. This amazingly inert tubing is manufactured, sponsored, and sent to us by the folks over at SilcoTek. Thank you guys!
 
 post-par2: We've already accepted that we won't receive it early enough that we could do anything with it for our fast approaching Integration Progress Review (IPR) but... maybe? Most likely not... but maybe? 
 
