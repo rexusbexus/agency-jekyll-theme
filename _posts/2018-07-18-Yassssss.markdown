@@ -4,8 +4,8 @@ subtitle: Finally
 layout: default
 date: 2018-07-18
 pretty-date: July 18, 2018
-img: Yassssss.jpeg
-thumbnail: Yassssss.jpeg
+img: yassssss.jpeg
+thumbnail: yassssss-silcotek.jpeg
 author: Emily Chen
 
 post-par1: One of our most awaited component is finally here! Today we received the stainless steel tube from SilcoTek that we have been longed for a looooooooooooong time. At first we thought it will come at the end of this week or be delayed to the IPR week ( if we were super unlucky). But it surprisingly turned up today and made the situation much better for us to prepare for the IPR which is next Monday. 
