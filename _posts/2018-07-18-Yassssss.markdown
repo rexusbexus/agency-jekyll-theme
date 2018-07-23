@@ -4,7 +4,7 @@ subtitle: Finally
 layout: default
 date: 2018-07-18
 pretty-date: July 18, 2018
-img: yassssss.jpeg
+img: Yassssss.jpeg
 thumbnail: yassssss-silcotek.jpeg
 author: Emily Chen
 
