@@ -36,15 +36,17 @@ people:
 - name: Georges L. J. Labrèche
   pic: georges-louis-joseph-labreche
   position: Management Division
-#  social:
+  social:
 #    - title: twitter
-#      url: #
+#      url: https://twitter.com/georgeslabreche
 #    - title: facebook
 #      url: #
 #    - title: google-plus
 #      url: #
-#    - title: linkedin
-#      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/georgeslabreche/
+    - title: instagram
+      url: https://www.instagram.com/georgeslabreche/
 
 - name: Natalie Lawton
   pic: natalie-lawton
@@ -61,10 +63,16 @@ people:
 - name: Ansyar Rafi Putra
   pic: muhammad-ansyar-rafi-putra
   position: Software Division
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/muhammad-ansyar-rafi-putra-904a75157/
 
 - name: Hamad Siddiqi
   pic: hamad-siddiqi
   position: Electrical Division
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/hamadsiddiqi/
 
 - name: Ivan Zankov
   pic: ivan-zankov
