@@ -4,8 +4,8 @@ subtitle: Zero tolerance for leaks
 layout: default
 date: 2018-07-26
 pretty-date: July 26, 2018
-img: leak-detector-emily.jpeg
-thumbnail: leak-detector.jpeg
+img: leak-detector.jpeg
+thumbnail: leak-detector-emily.jpeg
 author: Georges L. J. Labrèche
 author-url: https://www.linkedin.com/in/georgeslabreche/
 
