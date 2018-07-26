@@ -1,8 +1,4 @@
 /* Overwrite Agency theme style. */
-p{
-    line-height: 1em;
-}
-
 #portfolio .portfolio-item .portfolio-caption{
     padding-top: 15px;
 }
@@ -20,6 +16,10 @@ div.intro-text{
 }
 
 /* Custom styling. */
+.blog-subtitle{
+    line-height: 1em;
+}
+
 img.img-tubular-logo{
     max-width: 250px;
 }
