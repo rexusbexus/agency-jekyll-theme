@@ -12,9 +12,9 @@
                 {% for member in site.people %}
                 <div class="col-sm-4">
                     {% if member.social.size > 0 %}
-                    <div class="team-member" style="margin-bottom:10px;">
+                    <div class="team-member" style="margin-bottom:40px;">
                     {% else %}
-                    <div class="team-member">
+                    <div class="team-member" style="padding-bottom:40px;margin-bottom:40px;">
                     {% endif %}
                         <img src="img/lazyload/blurred-225x225.png" data-src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle lazyload" alt="{{ member.name }}">
                         <h4>{{ member.name }}</h4>
