@@ -32,6 +32,9 @@ people:
 - name: Erik Fagerström
   pic: erik-fagerstrom
   position: Thermal Division
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/erik-fagerstrom/
 
 - name: Georges L. J. Labrèche
   pic: georges-louis-joseph-labreche
@@ -59,6 +62,9 @@ people:
 - name: Emil Nordqvist
   pic: emil-nordqvist
   position: Electrical Division
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/emil-nordqvist-b3b278109/
 
 - name: Ansyar Rafi Putra
   pic: muhammad-ansyar-rafi-putra
