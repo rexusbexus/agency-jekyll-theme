@@ -1,0 +1,16 @@
+---
+title: IPR 
+subtitle: Updates and future plans
+layout: default
+date: 2018-07-31
+pretty-date: July 31, 2018
+img: ipr.jpg
+thumbnail: ipr.jpg
+author: Hamad Siddiqi
+author-url: https://www.linkedin.com/in/hamadsiddiqi/
+
+post-par1: Hi everyone, first I want to confess that I am guilty of not writing my blog post according to our schedule. It is better late than never. Let’s get back to the business, the good news is that we have passed the IPR (Integration Progress Review) and now working towards the final stage of the EAR (Experiment Acceptance Review) before the actual flight in October.
+post-par2: The IPR stage has pushed us to lock the design in order to pass the review. As a result, now we can confidently say that all the components required for the building are confirmed and ordered for the final delivery. The team has also started integration of the electronics and software. I believe that it would not be wrong to say all our departments working concurrently on building the experiment. 
+post-par3: If everything goes smoothly without any surprises of troubleshooting and disruption, which is hard to realize in the real world, will allow us to complete the building of the experiment in September. This will give us enough time for integration testing otherwise many restless nights are waiting for the team.
+post-par4: This is all from my side today. See you next time. Goodbye! Allahafiz! Hejdå!  
+---
