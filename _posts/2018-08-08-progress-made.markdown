@@ -4,8 +4,8 @@ subtitle: Slowly but surely
 layout: default
 date: 2018-08-08
 pretty-date: August 8, 2018
-img: progress-made.JPG
-thumbnail: progress-made.JPG
+img: progress-made.jpg
+thumbnail: progress-made.jpg
 author: Emil Nordqvist
 author-url: #
 
