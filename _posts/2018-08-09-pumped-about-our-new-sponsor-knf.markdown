@@ -13,7 +13,7 @@ post-par1: So I'm sure by now you all know about how important the pump is to ou
 
 post-par2: With that thought in mind we reached out to KNF where we purchased our original pump from. Having already done succesful testing on that pump and from literature we knew it was a good choice and if we were gonna get a back up we wanted one that was exactly the same.
 
-post-par3: What we love about this pump is how small and lightweight it is, which allows us to fit it into our compact pneumatic system easily, its low power draw, which allows us to sample for longer and more frequently and how well it has been performing in our vacuum chamber tests so far, where we are finding the flow rate is still sufficient.
+post-par3: What we love about this pump is how small and lightweight it is, which allows us to fit it into our compact pneumatic system easily, its low power draw, which allows us to sample for longer and more frequently and how well it has been performing in our vacuum chamber tests so far, where we are finding the flow rate is still sufficient for our needs even at stratospheric levels of pressure.
 
 post-par4: Luckily our friends at KNF also thought our project was interesting and should provide some nice data from the stratosphere so they have kindly supplied us with a backup pump. Now we can all sleep a little easier at night knowing that if we damage the pump during testing the experiment can still go on.
 
