@@ -5,7 +5,7 @@ layout: default
 date: 2018-08-03
 pretty-date: August 3, 2018
 img: online-power.jpg
-thumbnail: omline-power.jpg
+thumbnail: online-power.jpg
 author: Pau Molas Roca
 author-url: www.linkedin.com/in/paumolasroca
 
