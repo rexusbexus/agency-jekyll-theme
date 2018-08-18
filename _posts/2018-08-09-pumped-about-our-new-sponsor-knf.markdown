@@ -2,7 +2,7 @@
 title: Pumped About our New Sponsor KNF
 subtitle: Backing us up
 layout: default
-date: 2018-09-08
+date: 2018-08-09
 pretty-date: August 9th, 2018
 img: pumped-about-our-new-sponsor-knf-inner.jpg
 thumbnail: pumped-about-our-new-sponsor-knf-outer.png
