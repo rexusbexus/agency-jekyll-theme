@@ -1,0 +1,27 @@
+---
+title: We Poor!
+subtitle: Déjà vu
+layout: default
+date: 2018-08-19
+pretty-date: August 19, 2018
+img: we-poor.jpg
+thumbnail: we-poor.jpg
+author: Núria Agües Paszkowsky
+author-url: #
+
+post-par1: Hej! Nuria here after long time without blogging! Summer is almost finished and we haven't even realised how fast it has passed! Well, if you are in Kiruna I would say summer is definitely gone... but in the south, there are still a few weeks left! 
+
+
+
+post-par2: During summer our Kiruna team has been building the experiment and that means ordering components and PAYING for them. (Even though we are so lucky to have Emily in our team, The Queen of Sponsorships. THANK YOU EMILY). 
+
+
+
+post-par3:  As students, our budget was not so big and these last days we realised we are running out of money! (Typical déjà vu for someone I will not mention but SHE will feel identified). 
+
+
+
+post-par4:  But what next? Don't panic! We still have some back up plan. We are planning to do a crowdfunding. Let's see how much money we can get! 
+
+---
+
