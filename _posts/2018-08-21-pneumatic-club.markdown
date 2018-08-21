@@ -15,6 +15,6 @@ post-par2: Third rule of Pneumatic Club - Someone blow into a pipe, throw anythi
 
 post-par3: Fifth rule - IPA is to clean, not to drink, fellas. Sixth rule - No shirts, no shoes, yes gloves.
 
-post-par4: Seventh rule - Tubing will be cleaned as many times as they have to. And the eight and final rule - If this is your first day at Pneumatic Club, you have to blogpost about it.
+post-par4: Seventh rule - Tubing will be cleaned as many times as they have to. And the eighth and final rule - If this is your first day at Pneumatic Club, you have to blogpost about it.
 
 ---
