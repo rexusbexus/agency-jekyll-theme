@@ -16,3 +16,6 @@ post-par2: I put some gloves on (otherwise Jordi bites and you let Natalie down)
 post-par3: Cut, bend if necessary, clean and connect. Repeat for all bags. 
 
 post-par4: Have you noticed the look of the polar bear sticker on Natalie's laptop? I think it approves :D  
+
+---
+
