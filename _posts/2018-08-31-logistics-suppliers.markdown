@@ -9,7 +9,7 @@ thumbnail: pump-fittings.jpg
 author: Jordi Coll Ortega
 author-url: https://www.linkedin.com/in/jordi-coll-ortega-5857a06a/
 
-post-par1: Imagine this situation, it is two weeks until the trip to the Finnish Meteorological Institute (a one-time chance to realize a set of multisystem integration tests for 5 days), we start working with the pump tubing for the level 1 of our pneumatic system and a question arise. Are these plastic fittings (the ones that came by default with the pump) good enough to ensure a proper sealing?
+post-par1: Imagine this situation, it is two weeks until the trip to the Finnish Meteorological Institute (a one-time chance to carry out a set of multisystem integration tests for 5 days), we start working with the pump tubing for the level 1 of our pneumatic system and a question arise. Are these plastic fittings (the ones that came by default with the pump) good enough to ensure a proper sealing?
 
 post-par2: Red lights on, email pump supplier, email FMI, email anyone that could get any insight about the situation, cry, pray, stress, two weeks (that fittings were literally dancing over the plastic tubes).
 
