@@ -1,0 +1,20 @@
+---
+title: T-10 hours
+subtitle: And time keeps marching on.
+layout: default
+date: 2018-09-02
+pretty-date: September 2nd, 2018
+img: t-10-hours.jpg
+thumbnail: t-10-hours.jpg
+author: Natalie Lawton
+author-url: #
+
+post-par1: The time for our return visit to the Finnish Meteorological Institute in Sodankylä has finally come around and now we find ourselves with only hours left until the departure time.
+
+post-par2: Our hardy team of three, Kiki from science, Jordi from mechanical and Emil from Electrical will leave at 4am tomorrow morning to make the 5 hour trip. Since they have to be up so early we are aiming to be done by 8pm tonight, which is only 10 hours away now!
+
+post-par3: If we were working by regular standards we would never have been able to make this deadline, but luckily our team is not restricting themselves to regular working hours and people have been coming in early, staying late and working weekends to make this happen. Now we have the final push to get everything ready for testing in Finland where hopefully we will see our hardwork and dedication start to pay off.
+
+post-par4: But now it is time to get back to work!
+
+---
