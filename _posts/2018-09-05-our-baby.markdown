@@ -1,0 +1,23 @@
+---
+title: Our Baby
+subtitle: Almost built
+layout: default
+date: 2018-09-05
+pretty-date: September 5, 2018
+img: our-baby-2.jpg
+thumbnail: our-baby.jpg
+author: Núria Agües Paszkowsky
+author-url: #
+
+post-par1: Hej people! This is my last post before going back to Kiruna from summer! I can’t wait to get back there and meet our baby! I keep seeing the pictures my team mates send and picture after picture it becomes more exciting! 
+
+
+
+post-par2: What started as an idea in our minds has become a reality thanks to the hard work of the TUBULAR members that stayed in Kiruna. Kiki, Emil and Jordi are currently at FMI working on some tests and will be back by the end of the week. The countdown has started! 
+
+
+
+post-par3: In a few days, I will be able to touch the baby! (WITH GLOVES, OF COURSE). 
+
+
+---
