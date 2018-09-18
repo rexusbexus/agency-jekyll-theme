@@ -1,0 +1,23 @@
+---
+title: Tests
+subtitle: and problems...
+layout: default
+date: 2018-09-18
+pretty-date: September 18, 2018
+img: tests.jpg
+thumbnail: tests.jpg
+author: Núria Agües Paszkowsky
+author-url: #
+
+post-par1: Hey everybody! It's been a week I am in Kiruna and mainly we have been running tests and more tests. More precisely I have been working at the vacuum chamber with the members of software and science divisions and the project manager. We have been trying to check that the software works according to the sampling methodology at low pressure. Also, we want to know the pump flowrate at any altitude. 
+
+
+
+post-par2: Even though it seems like tests never end and every day there is a new problem, we have to be positive. Thanks to these tests we found out a bug in the software that is being solved by our amazing software team! 
+
+
+
+post-par3:  Today we were supposed to test the flowrate of the pump but guess what... when we were setting up everything we found out that the power connector of the PCB was broken. The reason is that it has been bent due to the size of the vacuum chamber. We are not sure when this exactly happened but this is postponing all our tasks! Let's hope we can sort it out soon and keep working! 
+
+
+---
