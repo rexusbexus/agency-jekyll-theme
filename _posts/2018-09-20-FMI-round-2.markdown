@@ -1,0 +1,20 @@
+---
+title: There we go,
+subtitle: again
+layout: default
+date: 2018-09-20
+pretty-date: September 20, 2018
+img: picarro.png
+thumbnail: exciting-news.jpg
+author: Kyriaki Blazaki
+author-url: #
+
+post-par1: Greetings from the rainy Kiruna people! It's Kiki writing to you today, from the science team. It has been a super busy period since my last post.
+
+post-par2: We did a second trip to the Finnish Meteorological Institute where we run some new tests, and repeated others. We checked if the way we flush the bags is sufficient. We tested the holding time of the bags again, and run some leakage tests. Thermal, software and electrical tests were also included. Oh! The AirCore baby was also tested! After some adjustments it fits in its crib! Success! Unfortunatelly, we didn't take it with us, since it has to go through some special preparations before it's ready to fly!   
+
+post-par3: In general, the results were good and we are super happy about it! The flushing of the bags passed the test with good results, and the holding times of the bags were satisfactory! Looks like the bags can hold a sample for 48 hours and still give very good results! There are some minor leakages which won't affect our results. What is more, we tested if the valves work normally in a low-pressure environment, and if the flushing valve is still 'alive' after leaving it open all night. All good people! All good :)   
+
+post-par4: This trip gave us precious lessons. Almost one month before the flight, one would assume that the team knows everything about their experiment. But this is not the case. Every day, and especially while testing, something new comes up. Even if it is a new idea or a new problem. But so far, we were able to overcome the problems and this is what it matters! Keep up the good work team! Cheers!   
+
+---
