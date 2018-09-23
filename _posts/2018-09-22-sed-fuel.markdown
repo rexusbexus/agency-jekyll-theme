@@ -2,7 +2,7 @@
 title: SED Fuel
 subtitle: SED round 4, fight!
 layout: default
-date: 2018-22-09
+date: 2018-09-22
 pretty-date: September 22, 2018
 img: sed-fuel-inner.jpg
 thumbnail: sed-fuel.jpg
