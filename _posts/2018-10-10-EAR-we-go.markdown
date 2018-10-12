@@ -1,0 +1,20 @@
+---
+title: Ear We Go!
+subtitle: It's a full pass.
+layout: default
+date: 2018-10-10
+pretty-date: October 10, 2018
+img: ear-we-go.gif
+thumbnail: ear-we-go.gif
+author: Georges L. J. Labrèche
+author-url: https://www.linkedin.com/in/georgeslabreche/
+
+post-par1: We just underwent the Experiment Acceptance Review (EAR) to ensure that the experiment is flight ready... and it is!
+
+post-par2: A round of applauses and pats on the backs for everyone on the team. Also, check out our latest SED. It's v.4.0!
+
+post-par3: Next step - Esrange Space Center where the launch will take place sometime next week. What a year it's been to get to this point.
+
+post-par4: A big thank you to Stefan Krämer from the Swedish Space Corporation (SSC) who took the time to come to Kiruna and review the experiment for us. Thank you for the pass, Stefan!
+
+---
