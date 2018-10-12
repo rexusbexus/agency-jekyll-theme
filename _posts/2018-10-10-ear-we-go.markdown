@@ -11,7 +11,7 @@ author-url: https://www.linkedin.com/in/georgeslabreche/
 
 post-par1: We just underwent the Experiment Acceptance Review (EAR) to ensure that the experiment is flight ready... and it is!
 
-post-par2: A round of applauses and pats on the backs for everyone on the team. Also, check out our latest SED. It's v.4.0!
+post-par2: A round of applauses and pats on the backs for everyone on the team. Also, check out SED v.4.0!
 
 post-par3: Next step - Esrange Space Center where the launch will take place sometime next week. What a year it's been to get to this point.
 
