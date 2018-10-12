@@ -1,5 +1,5 @@
 ---
-title: Ear We Go!
+title: EAR We Go!
 subtitle: It's a full pass.
 layout: default
 date: 2018-10-10
