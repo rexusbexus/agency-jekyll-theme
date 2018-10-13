@@ -9,7 +9,7 @@ thumbnail: launch-campaign-day-1.png
 author: Georges L. J. Labrèche
 author-url: https://www.linkedin.com/in/georgeslabreche/
 
-post-par1: First day of the launc campaign has begun and we're fit checking the experiment in the gondola. 
+post-par1: First day of the launch campaign has begun and we're fit checking the experiment in the gondola. 
 
 post-par2: Over the next few days we will test the experiment with the gondola e-link system, run interference checks, and make a flight compatibility test.
 
