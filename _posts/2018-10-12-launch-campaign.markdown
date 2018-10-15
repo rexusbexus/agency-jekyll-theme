@@ -11,7 +11,7 @@ author-url: #
 
 post-par1: Ladies and Gentlemen, its the captain speaking. Welcome on board! There will be some final preparations before we take off. Fill the balloon, fasten you seatbelts, people WE ARE FLYING! 
 
-post-par2: (Serious me now). Friday evening already, which means that the launch campaing is about to start! Only a few hours far! Four team members and I, arrived today at Srange where we will do some final testing with our experiment and the gondola. Next step is the flushing of the AAC and CAC systems. On Wednesday we will have our first chance to fly if the weather allows it. And pretty much, these are our launch campaign days.  
+post-par2: (Serious me now). Friday evening already, which means that the launch campaing is about to start! Only a few hours far! Four team members and I, arrived today at Esrange where we will do some final testing with our experiment and the gondola. Next step is the flushing of the AAC and CAC systems. On Wednesday we will have our first chance to fly if the weather allows it. And pretty much, these are our launch campaign days.  
 
 post-par3: Earlier today, our partners from FMI arrived at space campus in Kiruna! They brought the Aircore and all the necessary equipment for the data analysis. Mechanical team, put the Aircore in its box while other team members were packing the tools and things we are going to need. There was a checklist around, to make sure we won't forget anything. And off we go!     
 
