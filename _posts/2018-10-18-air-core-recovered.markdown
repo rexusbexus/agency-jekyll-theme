@@ -9,12 +9,12 @@ thumbnail: air-core-recovered.png
 author: Georges L. J. Labrèche
 author-url: https://www.linkedin.com/in/georgeslabreche/
 
-post-par1: Sampling with the AirCore happened nominally and this is awesome.
+post-par1: The recovery team drove around 860km to recover our AirCore. They had to hike 5km through the forest in order to retrieve it so 10km hiking in total. It took around 13 hours to recover it by car and by foot. A big thank you to Stefan Krämer from the Swedish Space Corporation (SSC) who lead the recover efforts.
 
-post-par2: Sampling with the bags suffered component failure with the air pump. We mitigated by switching to manual mode and sending valve commands for passive sampling. Time will tell if this actually worked. Eager to find out.
+post-par2: Since we closed the valve at 6.5 km altitude, we expected the pressure inside the coil to be 440 mBar, but when we got it back we found it was at sea level pressure. This could have meant one of two things: 1) the valve never opened and the coil was still full of fill gas 2) there was a leak through the valve. 
 
-post-par3: Quick revovery with helicopter was cancelled due to the weather. This is not ideal but it's not terrible either, the AirCore was recovered by car instead.
+post-par3: After plugging it in, there was a moment where it was fill gas and then suddenly the CO concentration dropped dramatically indicating that we have stratospheric air! What a relief, we have something! The troposheric samples are questionable but the stratospheric samples are very good. The stratospheric air samples have been stored in 15 pieces of tubing FMI brought with them so that they may later run further analysis on them.
 
-post-par4: After running it in the piccarro analyser for a few minutes we finally saw data on the collected stratospheric air samples. Looking forward to further analysis. Stay tuned.
+post-par4: What about our other sampling system, the one with the bags? Alas, it suffered from a component failure with the air pump. We mitigated by switching to manual mode and sending valve commands for passive sampling. We haven't recovered this part of the experiment yet. I must say, it was quite amazing how the team handled the malfunction as it unfolded and came up with a new plan. Telecommanding is super cool. Stay tuned to find out if it actually worked!
 
 ---
