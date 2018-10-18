@@ -1,7 +1,6 @@
-
 ---
 title: Flight Compatibility Test
-subtitle: Launch Campaign Day 4
+subtitle: Launch Campaign, Day 4.
 layout: default
 date: 2018-10-16
 pretty-date: October 16, 2018
