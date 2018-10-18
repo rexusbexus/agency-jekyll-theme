@@ -1,0 +1,21 @@
+
+---
+title: Launch!
+subtitle: It's flying
+layout: default
+date: 2018-10-17
+pretty-date: October 17, 2018
+img: launch.png
+thumbnail: launch.png
+author: Georges L. J. Labrèche
+author-url: https://www.linkedin.com/in/georgeslabreche/
+
+post-par1: We launched our experiment! What a moment to finally witness after so much hard work and perseverance during the past year.
+
+post-par2: No matter the outcome, we're grateful for the experience and would like to thank everyone who supported us - the organizers, our partners, the sponsors, our school, professors, families, friends, the blogpost readers, and everyone who took interest in our project and encouraged us with their positive energy and enthusiasm.
+
+post-par3: Now we eagerly track our flight from the ground station to see if our experiment runs as planned.
+
+post-par4: Thank you all!
+
+---
