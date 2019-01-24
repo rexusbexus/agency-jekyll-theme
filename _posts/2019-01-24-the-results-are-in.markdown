@@ -4,7 +4,7 @@ subtitle: Happy New Year!
 layout: default
 date: 2019-01-24
 pretty-date: January 24th, 2019
-img: the-results-are-in.png
+img: the-results-are-in-2.png
 thumbnail: the-results-are-in.png
 author: Georges L. J. Labrèche
 author-url: https://www.linkedin.com/in/georgeslabreche/
