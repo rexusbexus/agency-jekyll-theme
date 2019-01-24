@@ -15,6 +15,6 @@ post-par2: A strong decrease of CO2 can be observed in the first layers above 6 
 
 post-par3: CO2 variability is higher near the ground, whereas CH4 variability is higher in the mid-to-upper troposphere and in the stratosphere. This is in agreement with the idea that CO2 may have negative and positive anomalies at the surface (associated mainly with vegetation uptake and anthropogenic emissions), whereas CH4 has mostly positive anomalies coming from the surface and negative anomalies coming from the stratosphere.
 
-post-par4: Hungry for more? I bet! You can read about the results in detail in the SED v5.0 under section Section 7.3.6 - Scientic Results (pp. 163-165). All very exciting!
+post-par4: Hungry for more? I bet! You can read about the results in detail in the SED v5.0 under Section 7.3.6 - Scientic Results (pp. 163-165). All very exciting!
 
 ---
