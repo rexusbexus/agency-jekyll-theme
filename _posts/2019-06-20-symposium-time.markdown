@@ -15,6 +15,6 @@ post-par2: The entire team was thrilled to get updates from our Swedish delegate
 
 post-par3: The reflight with FMI is still in the back burner but someone at the Symposium also suggested that maybe we could also be able to fly on the HEMERA H2020, will we apply?!
 
-post-par2: HEMERA is "a Research Infrastructure funded by the Horizon 2020 framework Programme of the European Union which integrates a large starting community in the field of tropospheric and stratospheric balloon-borne research, to make existing balloon facilities available to all scientific teams in the European Union, Canada and associated countries." 
+post-par4: HEMERA is "a Research Infrastructure funded by the Horizon 2020 framework Programme of the European Union which integrates a large starting community in the field of tropospheric and stratospheric balloon-borne research, to make existing balloon facilities available to all scientific teams in the European Union, Canada and associated countries." 
 
 ---
