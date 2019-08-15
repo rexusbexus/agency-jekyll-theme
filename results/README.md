@@ -1,7 +1,7 @@
 # Measurements Obtained from the Picarro Analyzer
 
 ## Background
-The [official website](https://rexusbexus.github.io/tubular/) of project TUBULAR as well as the latest version of the [Student Experiment Documentation (SED)](https://rexusbexus.github.io/tubular/sed/BX26_TUBULAR_SEDv5-1_17Jul19.pdf) provides enough context for greenhouse gas contrentation profile data presented here.
+The [official website](https://rexusbexus.github.io/tubular/) of project TUBULAR as well as the latest version of the [Student Experiment Documentation (SED)](https://rexusbexus.github.io/tubular/sed/BX26_TUBULAR_SEDv5-1_17Jul19.pdf) provides enough context for the greenhouse gas contrentation profile data presented here.
 
 ## Data
 Picarro analyzer gas concentration measurements of CO, CO2, and CH4 from AirCore air samples collected on board the BEXUS 26 / TUBULAR flight.
