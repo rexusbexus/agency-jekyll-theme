@@ -1,6 +1,6 @@
 ---
-title: Recover lost Data
-subtitle: Paper writting
+title: Recover Lost Data
+subtitle: Paper writing
 layout: default
 date: 2019-07-30
 pretty-date: July 30, 2019
